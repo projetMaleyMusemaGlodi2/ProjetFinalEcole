@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DTS_paiement11111" targetNamespace="http://tempuri.org/DTS_paiement11111.xsd" xmlns:mstns="http://tempuri.org/DTS_paiement11111.xsd" xmlns="http://tempuri.org/DTS_paiement11111.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ecole_bdConnectionString1" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ecole_bdConnectionString1 (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Ecole.Properties.Settings.GlobalReference.Default.ecole_bdConnectionString1" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="tous_les_details_paiementTableAdapter" GeneratorDataComponentClassName="tous_les_details_paiementTableAdapter" Name="tous_les_details_paiement" UserDataComponentName="tous_les_details_paiementTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ecole_bdConnectionString1 (Settings)" DbObjectName="ecole_bd.dbo.tous_les_details_paiement" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Num_Recus, montantpay, datepay, Code_Inscription, Matricule, Nom, Postnom, Prenom, codeclasse, codesection, division, section, Code_option, optioneleve, CodeFrais, TypeFrais, Code_utilisateur, utilisateur, libelle, montantprev, Total, Reste FROM dbo.tous_les_details_paiement</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Num_Recus" DataSetColumn="Num_Recus" />
+              <Mapping SourceColumn="montantpay" DataSetColumn="montantpay" />
+              <Mapping SourceColumn="datepay" DataSetColumn="datepay" />
+              <Mapping SourceColumn="Code_Inscription" DataSetColumn="Code_Inscription" />
+              <Mapping SourceColumn="Matricule" DataSetColumn="Matricule" />
+              <Mapping SourceColumn="Nom" DataSetColumn="Nom" />
+              <Mapping SourceColumn="Postnom" DataSetColumn="Postnom" />
+              <Mapping SourceColumn="Prenom" DataSetColumn="Prenom" />
+              <Mapping SourceColumn="codeclasse" DataSetColumn="codeclasse" />
+              <Mapping SourceColumn="codesection" DataSetColumn="codesection" />
+              <Mapping SourceColumn="division" DataSetColumn="division" />
+              <Mapping SourceColumn="section" DataSetColumn="section" />
+              <Mapping SourceColumn="Code_option" DataSetColumn="Code_option" />
+              <Mapping SourceColumn="optioneleve" DataSetColumn="optioneleve" />
+              <Mapping SourceColumn="CodeFrais" DataSetColumn="CodeFrais" />
+              <Mapping SourceColumn="TypeFrais" DataSetColumn="TypeFrais" />
+              <Mapping SourceColumn="Code_utilisateur" DataSetColumn="Code_utilisateur" />
+              <Mapping SourceColumn="utilisateur" DataSetColumn="utilisateur" />
+              <Mapping SourceColumn="libelle" DataSetColumn="libelle" />
+              <Mapping SourceColumn="montantprev" DataSetColumn="montantprev" />
+              <Mapping SourceColumn="Total" DataSetColumn="Total" />
+              <Mapping SourceColumn="Reste" DataSetColumn="Reste" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DTS_paiement11111" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DTS_paiement11111" msprop:Generator_UserDSName="DTS_paiement11111">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tous_les_details_paiement" msprop:Generator_TableClassName="tous_les_details_paiementDataTable" msprop:Generator_TableVarName="tabletous_les_details_paiement" msprop:Generator_TablePropName="tous_les_details_paiement" msprop:Generator_RowDeletingName="tous_les_details_paiementRowDeleting" msprop:Generator_RowChangingName="tous_les_details_paiementRowChanging" msprop:Generator_RowEvHandlerName="tous_les_details_paiementRowChangeEventHandler" msprop:Generator_RowDeletedName="tous_les_details_paiementRowDeleted" msprop:Generator_UserTableName="tous_les_details_paiement" msprop:Generator_RowChangedName="tous_les_details_paiementRowChanged" msprop:Generator_RowEvArgName="tous_les_details_paiementRowChangeEvent" msprop:Generator_RowClassName="tous_les_details_paiementRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Num_Recus" msprop:Generator_ColumnVarNameInTable="columnNum_Recus" msprop:Generator_ColumnPropNameInRow="Num_Recus" msprop:Generator_ColumnPropNameInTable="Num_RecusColumn" msprop:Generator_UserColumnName="Num_Recus" type="xs:int" />
+              <xs:element name="montantpay" msprop:Generator_ColumnVarNameInTable="columnmontantpay" msprop:Generator_ColumnPropNameInRow="montantpay" msprop:Generator_ColumnPropNameInTable="montantpayColumn" msprop:Generator_UserColumnName="montantpay" type="xs:double" minOccurs="0" />
+              <xs:element name="datepay" msprop:Generator_ColumnVarNameInTable="columndatepay" msprop:Generator_ColumnPropNameInRow="datepay" msprop:Generator_ColumnPropNameInTable="datepayColumn" msprop:Generator_UserColumnName="datepay" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Code_Inscription" msprop:Generator_ColumnVarNameInTable="columnCode_Inscription" msprop:Generator_ColumnPropNameInRow="Code_Inscription" msprop:Generator_ColumnPropNameInTable="Code_InscriptionColumn" msprop:Generator_UserColumnName="Code_Inscription" type="xs:int" minOccurs="0" />
+              <xs:element name="Matricule" msprop:Generator_ColumnVarNameInTable="columnMatricule" msprop:Generator_ColumnPropNameInRow="Matricule" msprop:Generator_ColumnPropNameInTable="MatriculeColumn" msprop:Generator_UserColumnName="Matricule" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Nom" msprop:Generator_ColumnVarNameInTable="columnNom" msprop:Generator_ColumnPropNameInRow="Nom" msprop:Generator_ColumnPropNameInTable="NomColumn" msprop:Generator_UserColumnName="Nom" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Postnom" msprop:Generator_ColumnVarNameInTable="columnPostnom" msprop:Generator_ColumnPropNameInRow="Postnom" msprop:Generator_ColumnPropNameInTable="PostnomColumn" msprop:Generator_UserColumnName="Postnom" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Prenom" msprop:Generator_ColumnVarNameInTable="columnPrenom" msprop:Generator_ColumnPropNameInRow="Prenom" msprop:Generator_ColumnPropNameInTable="PrenomColumn" msprop:Generator_UserColumnName="Prenom" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="codeclasse" msprop:Generator_ColumnVarNameInTable="columncodeclasse" msprop:Generator_ColumnPropNameInRow="codeclasse" msprop:Generator_ColumnPropNameInTable="codeclasseColumn" msprop:Generator_UserColumnName="codeclasse" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="codesection" msprop:Generator_ColumnVarNameInTable="columncodesection" msprop:Generator_ColumnPropNameInRow="codesection" msprop:Generator_ColumnPropNameInTable="codesectionColumn" msprop:Generator_UserColumnName="codesection" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="division" msprop:Generator_ColumnVarNameInTable="columndivision" msprop:Generator_ColumnPropNameInRow="division" msprop:Generator_ColumnPropNameInTable="divisionColumn" msprop:Generator_UserColumnName="division" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="section" msprop:Generator_ColumnVarNameInTable="columnsection" msprop:Generator_ColumnPropNameInRow="section" msprop:Generator_ColumnPropNameInTable="sectionColumn" msprop:Generator_UserColumnName="section" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Code_option" msprop:Generator_ColumnVarNameInTable="columnCode_option" msprop:Generator_ColumnPropNameInRow="Code_option" msprop:Generator_ColumnPropNameInTable="Code_optionColumn" msprop:Generator_UserColumnName="Code_option" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="optioneleve" msprop:Generator_ColumnVarNameInTable="columnoptioneleve" msprop:Generator_ColumnPropNameInRow="optioneleve" msprop:Generator_ColumnPropNameInTable="optioneleveColumn" msprop:Generator_UserColumnName="optioneleve" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CodeFrais" msprop:Generator_ColumnVarNameInTable="columnCodeFrais" msprop:Generator_ColumnPropNameInRow="CodeFrais" msprop:Generator_ColumnPropNameInTable="CodeFraisColumn" msprop:Generator_UserColumnName="CodeFrais" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TypeFrais" msprop:Generator_ColumnVarNameInTable="columnTypeFrais" msprop:Generator_ColumnPropNameInRow="TypeFrais" msprop:Generator_ColumnPropNameInTable="TypeFraisColumn" msprop:Generator_UserColumnName="TypeFrais" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Code_utilisateur" msprop:Generator_ColumnVarNameInTable="columnCode_utilisateur" msprop:Generator_ColumnPropNameInRow="Code_utilisateur" msprop:Generator_ColumnPropNameInTable="Code_utilisateurColumn" msprop:Generator_UserColumnName="Code_utilisateur" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="utilisateur" msprop:Generator_ColumnVarNameInTable="columnutilisateur" msprop:Generator_ColumnPropNameInRow="utilisateur" msprop:Generator_ColumnPropNameInTable="utilisateurColumn" msprop:Generator_UserColumnName="utilisateur" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="libelle" msprop:Generator_ColumnVarNameInTable="columnlibelle" msprop:Generator_ColumnPropNameInRow="libelle" msprop:Generator_ColumnPropNameInTable="libelleColumn" msprop:Generator_UserColumnName="libelle" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="montantprev" msprop:Generator_ColumnVarNameInTable="columnmontantprev" msprop:Generator_ColumnPropNameInRow="montantprev" msprop:Generator_ColumnPropNameInTable="montantprevColumn" msprop:Generator_UserColumnName="montantprev" type="xs:double" minOccurs="0" />
+              <xs:element name="Total" msprop:Generator_ColumnVarNameInTable="columnTotal" msprop:Generator_ColumnPropNameInRow="Total" msprop:Generator_ColumnPropNameInTable="TotalColumn" msprop:Generator_UserColumnName="Total" type="xs:double" minOccurs="0" />
+              <xs:element name="Reste" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnReste" msprop:Generator_ColumnPropNameInRow="Reste" msprop:Generator_ColumnPropNameInTable="ResteColumn" msprop:Generator_UserColumnName="Reste" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:tous_les_details_paiement" />
+      <xs:field xpath="mstns:Num_Recus" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

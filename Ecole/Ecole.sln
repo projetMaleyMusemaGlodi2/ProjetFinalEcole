@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecole", "Ecole\Ecole.csproj", "{C586174F-02F4-4B86-8680-0538FAAC7142}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupLucien22", "SetupLucien22\SetupLucien22.vdproj", "{E5AB9A5E-6D63-4BE3-A900-0E02CFD75547}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "KamiSoft 2.0.0", "KamiSoft 2.0.0\KamiSoft 2.0.0.vdproj", "{E68133D1-A37C-459C-980F-2C1298E31C40}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "KamiSoft 2.0.1", "KamiSoft 2.0.1\KamiSoft 2.0.1.vdproj", "{085E1691-6374-438D-8BE2-F901595D8073}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "KamiSoft 2.0.2", "KamiSoft 2.0.2\KamiSoft 2.0.2.vdproj", "{B6A62073-3C9C-4F22-8971-669BEEAA0E3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C586174F-02F4-4B86-8680-0538FAAC7142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C586174F-02F4-4B86-8680-0538FAAC7142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C586174F-02F4-4B86-8680-0538FAAC7142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C586174F-02F4-4B86-8680-0538FAAC7142}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5AB9A5E-6D63-4BE3-A900-0E02CFD75547}.Debug|Any CPU.ActiveCfg = Debug
+		{E5AB9A5E-6D63-4BE3-A900-0E02CFD75547}.Release|Any CPU.ActiveCfg = Release
+		{E68133D1-A37C-459C-980F-2C1298E31C40}.Debug|Any CPU.ActiveCfg = Debug
+		{E68133D1-A37C-459C-980F-2C1298E31C40}.Release|Any CPU.ActiveCfg = Release
+		{085E1691-6374-438D-8BE2-F901595D8073}.Debug|Any CPU.ActiveCfg = Debug
+		{085E1691-6374-438D-8BE2-F901595D8073}.Release|Any CPU.ActiveCfg = Release
+		{B6A62073-3C9C-4F22-8971-669BEEAA0E3D}.Debug|Any CPU.ActiveCfg = Debug
+		{B6A62073-3C9C-4F22-8971-669BEEAA0E3D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

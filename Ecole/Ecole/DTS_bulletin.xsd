@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DTS_bulletin" targetNamespace="http://tempuri.org/DTS_bulletin.xsd" xmlns:mstns="http://tempuri.org/DTS_bulletin.xsd" xmlns="http://tempuri.org/DTS_bulletin.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="Gestion_Ecole1ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="Gestion_Ecole1ConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Ecole.Properties.Settings.GlobalReference.Default.Gestion_Ecole1ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Proclamation_FinalTableAdapter" GeneratorDataComponentClassName="Proclamation_FinalTableAdapter" Name="Proclamation_Final" UserDataComponentName="Proclamation_FinalTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Gestion_Ecole1ConnectionString (Settings)" DbObjectName="Gestion_Ecole1.dbo.Proclamation_Final" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Codeeleve, Matricule, Nom, PostNom, Prenom, Sexe, DateNaissance, LieuNaissance, CodeClasse, Classe, Affectation, codesection, Section, Code_option, Option_Eleve, Code_cote, cote_p1, maxima_p1, Code_periode, Preriode1, Cours, Totaux_p1, MG_p1, Pourcentage_p1, CodeAnnee, annee, cote_p2, maxima_p2, Periode2, Totaux_p2, MG_p2, Pourcentage_p2, cote_Exam1, maxima_Exam1, PeriodeExam1, Totaux_Exam1, MG_Exam1, Pourcentage_Exam1, cote_Tot1, maxima_Tot1, PeriodeTot1, Totaux_Tot1, MG_Tot1, Pourcentage_Tot1, cote_p3, maxima_p3, Periode3, Totaux_P3, MG_P3, Pourcentage_P3, cote_P4, maxima_P4, Periode4, Totaux_P4, MG_P4, Pourcentage_P4, cote_Exam2, maximaExam2, PeriodeExam2, Totaux_Exam2, MG_Exam2, Pourcentage_Exam2, cote_Tot2, maxima_Tot2, PeriodeTot2, Totaux_Tot2, MG_Tot2, Pourcentage_Tot2, cote_TG, maxima_TG, PeriodeTG, Totaux_TG, MG_TG, Pourcentage_TG FROM dbo.Proclamation_Final</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Codeeleve" DataSetColumn="Codeeleve" />
+              <Mapping SourceColumn="Matricule" DataSetColumn="Matricule" />
+              <Mapping SourceColumn="Nom" DataSetColumn="Nom" />
+              <Mapping SourceColumn="PostNom" DataSetColumn="PostNom" />
+              <Mapping SourceColumn="Prenom" DataSetColumn="Prenom" />
+              <Mapping SourceColumn="Sexe" DataSetColumn="Sexe" />
+              <Mapping SourceColumn="DateNaissance" DataSetColumn="DateNaissance" />
+              <Mapping SourceColumn="LieuNaissance" DataSetColumn="LieuNaissance" />
+              <Mapping SourceColumn="CodeClasse" DataSetColumn="CodeClasse" />
+              <Mapping SourceColumn="Classe" DataSetColumn="Classe" />
+              <Mapping SourceColumn="Affectation" DataSetColumn="Affectation" />
+              <Mapping SourceColumn="codesection" DataSetColumn="codesection" />
+              <Mapping SourceColumn="Section" DataSetColumn="Section" />
+              <Mapping SourceColumn="Code_option" DataSetColumn="Code_option" />
+              <Mapping SourceColumn="Option_Eleve" DataSetColumn="Option_Eleve" />
+              <Mapping SourceColumn="Code_cote" DataSetColumn="Code_cote" />
+              <Mapping SourceColumn="cote_p1" DataSetColumn="cote_p1" />
+              <Mapping SourceColumn="maxima_p1" DataSetColumn="maxima_p1" />
+              <Mapping SourceColumn="Code_periode" DataSetColumn="Code_periode" />
+              <Mapping SourceColumn="Preriode1" DataSetColumn="Preriode1" />
+              <Mapping SourceColumn="Cours" DataSetColumn="Cours" />
+              <Mapping SourceColumn="Totaux_p1" DataSetColumn="Totaux_p1" />
+              <Mapping SourceColumn="MG_p1" DataSetColumn="MG_p1" />
+              <Mapping SourceColumn="Pourcentage_p1" DataSetColumn="Pourcentage_p1" />
+              <Mapping SourceColumn="CodeAnnee" DataSetColumn="CodeAnnee" />
+              <Mapping SourceColumn="annee" DataSetColumn="annee" />
+              <Mapping SourceColumn="cote_p2" DataSetColumn="cote_p2" />
+              <Mapping SourceColumn="maxima_p2" DataSetColumn="maxima_p2" />
+              <Mapping SourceColumn="Periode2" DataSetColumn="Periode2" />
+              <Mapping SourceColumn="Totaux_p2" DataSetColumn="Totaux_p2" />
+              <Mapping SourceColumn="MG_p2" DataSetColumn="MG_p2" />
+              <Mapping SourceColumn="Pourcentage_p2" DataSetColumn="Pourcentage_p2" />
+              <Mapping SourceColumn="cote_Exam1" DataSetColumn="cote_Exam1" />
+              <Mapping SourceColumn="maxima_Exam1" DataSetColumn="maxima_Exam1" />
+              <Mapping SourceColumn="PeriodeExam1" DataSetColumn="PeriodeExam1" />
+              <Mapping SourceColumn="Totaux_Exam1" DataSetColumn="Totaux_Exam1" />
+              <Mapping SourceColumn="MG_Exam1" DataSetColumn="MG_Exam1" />
+              <Mapping SourceColumn="Pourcentage_Exam1" DataSetColumn="Pourcentage_Exam1" />
+              <Mapping SourceColumn="cote_Tot1" DataSetColumn="cote_Tot1" />
+              <Mapping SourceColumn="maxima_Tot1" DataSetColumn="maxima_Tot1" />
+              <Mapping SourceColumn="PeriodeTot1" DataSetColumn="PeriodeTot1" />
+              <Mapping SourceColumn="Totaux_Tot1" DataSetColumn="Totaux_Tot1" />
+              <Mapping SourceColumn="MG_Tot1" DataSetColumn="MG_Tot1" />
+              <Mapping SourceColumn="Pourcentage_Tot1" DataSetColumn="Pourcentage_Tot1" />
+              <Mapping SourceColumn="cote_p3" DataSetColumn="cote_p3" />
+              <Mapping SourceColumn="maxima_p3" DataSetColumn="maxima_p3" />
+              <Mapping SourceColumn="Periode3" DataSetColumn="Periode3" />
+              <Mapping SourceColumn="Totaux_P3" DataSetColumn="Totaux_P3" />
+              <Mapping SourceColumn="MG_P3" DataSetColumn="MG_P3" />
+              <Mapping SourceColumn="Pourcentage_P3" DataSetColumn="Pourcentage_P3" />
+              <Mapping SourceColumn="cote_P4" DataSetColumn="cote_P4" />
+              <Mapping SourceColumn="maxima_P4" DataSetColumn="maxima_P4" />
+              <Mapping SourceColumn="Periode4" DataSetColumn="Periode4" />
+              <Mapping SourceColumn="Totaux_P4" DataSetColumn="Totaux_P4" />
+              <Mapping SourceColumn="MG_P4" DataSetColumn="MG_P4" />
+              <Mapping SourceColumn="Pourcentage_P4" DataSetColumn="Pourcentage_P4" />
+              <Mapping SourceColumn="cote_Exam2" DataSetColumn="cote_Exam2" />
+              <Mapping SourceColumn="maximaExam2" DataSetColumn="maximaExam2" />
+              <Mapping SourceColumn="PeriodeExam2" DataSetColumn="PeriodeExam2" />
+              <Mapping SourceColumn="Totaux_Exam2" DataSetColumn="Totaux_Exam2" />
+              <Mapping SourceColumn="MG_Exam2" DataSetColumn="MG_Exam2" />
+              <Mapping SourceColumn="Pourcentage_Exam2" DataSetColumn="Pourcentage_Exam2" />
+              <Mapping SourceColumn="cote_Tot2" DataSetColumn="cote_Tot2" />
+              <Mapping SourceColumn="maxima_Tot2" DataSetColumn="maxima_Tot2" />
+              <Mapping SourceColumn="PeriodeTot2" DataSetColumn="PeriodeTot2" />
+              <Mapping SourceColumn="Totaux_Tot2" DataSetColumn="Totaux_Tot2" />
+              <Mapping SourceColumn="MG_Tot2" DataSetColumn="MG_Tot2" />
+              <Mapping SourceColumn="Pourcentage_Tot2" DataSetColumn="Pourcentage_Tot2" />
+              <Mapping SourceColumn="cote_TG" DataSetColumn="cote_TG" />
+              <Mapping SourceColumn="maxima_TG" DataSetColumn="maxima_TG" />
+              <Mapping SourceColumn="PeriodeTG" DataSetColumn="PeriodeTG" />
+              <Mapping SourceColumn="Totaux_TG" DataSetColumn="Totaux_TG" />
+              <Mapping SourceColumn="MG_TG" DataSetColumn="MG_TG" />
+              <Mapping SourceColumn="Pourcentage_TG" DataSetColumn="Pourcentage_TG" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DTS_bulletin" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DTS_bulletin" msprop:Generator_UserDSName="DTS_bulletin">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Proclamation_Final" msprop:Generator_TableClassName="Proclamation_FinalDataTable" msprop:Generator_TableVarName="tableProclamation_Final" msprop:Generator_TablePropName="Proclamation_Final" msprop:Generator_RowDeletingName="Proclamation_FinalRowDeleting" msprop:Generator_RowChangingName="Proclamation_FinalRowChanging" msprop:Generator_RowEvHandlerName="Proclamation_FinalRowChangeEventHandler" msprop:Generator_RowDeletedName="Proclamation_FinalRowDeleted" msprop:Generator_UserTableName="Proclamation_Final" msprop:Generator_RowChangedName="Proclamation_FinalRowChanged" msprop:Generator_RowEvArgName="Proclamation_FinalRowChangeEvent" msprop:Generator_RowClassName="Proclamation_FinalRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Codeeleve" msprop:Generator_ColumnVarNameInTable="columnCodeeleve" msprop:Generator_ColumnPropNameInRow="Codeeleve" msprop:Generator_ColumnPropNameInTable="CodeeleveColumn" msprop:Generator_UserColumnName="Codeeleve" type="xs:int" minOccurs="0" />
+              <xs:element name="Matricule" msprop:Generator_ColumnVarNameInTable="columnMatricule" msprop:Generator_ColumnPropNameInRow="Matricule" msprop:Generator_ColumnPropNameInTable="MatriculeColumn" msprop:Generator_UserColumnName="Matricule">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Nom" msprop:Generator_ColumnVarNameInTable="columnNom" msprop:Generator_ColumnPropNameInRow="Nom" msprop:Generator_ColumnPropNameInTable="NomColumn" msprop:Generator_UserColumnName="Nom" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PostNom" msprop:Generator_ColumnVarNameInTable="columnPostNom" msprop:Generator_ColumnPropNameInRow="PostNom" msprop:Generator_ColumnPropNameInTable="PostNomColumn" msprop:Generator_UserColumnName="PostNom" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Prenom" msprop:Generator_ColumnVarNameInTable="columnPrenom" msprop:Generator_ColumnPropNameInRow="Prenom" msprop:Generator_ColumnPropNameInTable="PrenomColumn" msprop:Generator_UserColumnName="Prenom" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Sexe" msprop:Generator_ColumnVarNameInTable="columnSexe" msprop:Generator_ColumnPropNameInRow="Sexe" msprop:Generator_ColumnPropNameInTable="SexeColumn" msprop:Generator_UserColumnName="Sexe" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DateNaissance" msprop:Generator_ColumnVarNameInTable="columnDateNaissance" msprop:Generator_ColumnPropNameInRow="DateNaissance" msprop:Generator_ColumnPropNameInTable="DateNaissanceColumn" msprop:Generator_UserColumnName="DateNaissance" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="LieuNaissance" msprop:Generator_ColumnVarNameInTable="columnLieuNaissance" msprop:Generator_ColumnPropNameInRow="LieuNaissance" msprop:Generator_ColumnPropNameInTable="LieuNaissanceColumn" msprop:Generator_UserColumnName="LieuNaissance" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CodeClasse" msprop:Generator_ColumnVarNameInTable="columnCodeClasse" msprop:Generator_ColumnPropNameInRow="CodeClasse" msprop:Generator_ColumnPropNameInTable="CodeClasseColumn" msprop:Generator_UserColumnName="CodeClasse" type="xs:int" minOccurs="0" />
+              <xs:element name="Classe" msprop:Generator_ColumnVarNameInTable="columnClasse" msprop:Generator_ColumnPropNameInRow="Classe" msprop:Generator_ColumnPropNameInTable="ClasseColumn" msprop:Generator_UserColumnName="Classe" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Affectation" msprop:Generator_ColumnVarNameInTable="columnAffectation" msprop:Generator_ColumnPropNameInRow="Affectation" msprop:Generator_ColumnPropNameInTable="AffectationColumn" msprop:Generator_UserColumnName="Affectation" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="codesection" msprop:Generator_ColumnVarNameInTable="columncodesection" msprop:Generator_ColumnPropNameInRow="codesection" msprop:Generator_ColumnPropNameInTable="codesectionColumn" msprop:Generator_UserColumnName="codesection" type="xs:int" minOccurs="0" />
+              <xs:element name="Section" msprop:Generator_ColumnVarNameInTable="columnSection" msprop:Generator_ColumnPropNameInRow="Section" msprop:Generator_ColumnPropNameInTable="SectionColumn" msprop:Generator_UserColumnName="Section" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Code_option" msprop:Generator_ColumnVarNameInTable="columnCode_option" msprop:Generator_ColumnPropNameInRow="Code_option" msprop:Generator_ColumnPropNameInTable="Code_optionColumn" msprop:Generator_UserColumnName="Code_option" type="xs:int" minOccurs="0" />
+              <xs:element name="Option_Eleve" msprop:Generator_ColumnVarNameInTable="columnOption_Eleve" msprop:Generator_ColumnPropNameInRow="Option_Eleve" msprop:Generator_ColumnPropNameInTable="Option_EleveColumn" msprop:Generator_UserColumnName="Option_Eleve" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Code_cote" msprop:Generator_ColumnVarNameInTable="columnCode_cote" msprop:Generator_ColumnPropNameInRow="Code_cote" msprop:Generator_ColumnPropNameInTable="Code_coteColumn" msprop:Generator_UserColumnName="Code_cote" type="xs:int" />
+              <xs:element name="cote_p1" msprop:Generator_ColumnVarNameInTable="columncote_p1" msprop:Generator_ColumnPropNameInRow="cote_p1" msprop:Generator_ColumnPropNameInTable="cote_p1Column" msprop:Generator_UserColumnName="cote_p1" type="xs:double" minOccurs="0" />
+              <xs:element name="maxima_p1" msprop:Generator_ColumnVarNameInTable="columnmaxima_p1" msprop:Generator_ColumnPropNameInRow="maxima_p1" msprop:Generator_ColumnPropNameInTable="maxima_p1Column" msprop:Generator_UserColumnName="maxima_p1" type="xs:double" minOccurs="0" />
+              <xs:element name="Code_periode" msprop:Generator_ColumnVarNameInTable="columnCode_periode" msprop:Generator_ColumnPropNameInRow="Code_periode" msprop:Generator_ColumnPropNameInTable="Code_periodeColumn" msprop:Generator_UserColumnName="Code_periode" type="xs:int" minOccurs="0" />
+              <xs:element name="Preriode1" msprop:Generator_ColumnVarNameInTable="columnPreriode1" msprop:Generator_ColumnPropNameInRow="Preriode1" msprop:Generator_ColumnPropNameInTable="Preriode1Column" msprop:Generator_UserColumnName="Preriode1" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Cours" msprop:Generator_ColumnVarNameInTable="columnCours" msprop:Generator_ColumnPropNameInRow="Cours" msprop:Generator_ColumnPropNameInTable="CoursColumn" msprop:Generator_UserColumnName="Cours" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Totaux_p1" msprop:Generator_ColumnVarNameInTable="columnTotaux_p1" msprop:Generator_ColumnPropNameInRow="Totaux_p1" msprop:Generator_ColumnPropNameInTable="Totaux_p1Column" msprop:Generator_UserColumnName="Totaux_p1" type="xs:double" minOccurs="0" />
+              <xs:element name="MG_p1" msprop:Generator_ColumnVarNameInTable="columnMG_p1" msprop:Generator_ColumnPropNameInRow="MG_p1" msprop:Generator_ColumnPropNameInTable="MG_p1Column" msprop:Generator_UserColumnName="MG_p1" type="xs:double" minOccurs="0" />
+              <xs:element name="Pourcentage_p1" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnPourcentage_p1" msprop:Generator_ColumnPropNameInRow="Pourcentage_p1" msprop:Generator_ColumnPropNameInTable="Pourcentage_p1Column" msprop:Generator_UserColumnName="Pourcentage_p1" type="xs:double" minOccurs="0" />
+              <xs:element name="CodeAnnee" msprop:Generator_ColumnVarNameInTable="columnCodeAnnee" msprop:Generator_ColumnPropNameInRow="CodeAnnee" msprop:Generator_ColumnPropNameInTable="CodeAnneeColumn" msprop:Generator_UserColumnName="CodeAnnee" type="xs:int" minOccurs="0" />
+              <xs:element name="annee" msprop:Generator_ColumnVarNameInTable="columnannee" msprop:Generator_ColumnPropNameInRow="annee" msprop:Generator_ColumnPropNameInTable="anneeColumn" msprop:Generator_UserColumnName="annee" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="cote_p2" msprop:Generator_ColumnVarNameInTable="columncote_p2" msprop:Generator_ColumnPropNameInRow="cote_p2" msprop:Generator_ColumnPropNameInTable="cote_p2Column" msprop:Generator_UserColumnName="cote_p2" type="xs:double" minOccurs="0" />
+              <xs:element name="maxima_p2" msprop:Generator_ColumnVarNameInTable="columnmaxima_p2" msprop:Generator_ColumnPropNameInRow="maxima_p2" msprop:Generator_ColumnPropNameInTable="maxima_p2Column" msprop:Generator_UserColumnName="maxima_p2" type="xs:double" minOccurs="0" />
+              <xs:element name="Periode2" msprop:Generator_ColumnVarNameInTable="columnPeriode2" msprop:Generator_ColumnPropNameInRow="Periode2" msprop:Generator_ColumnPropNameInTable="Periode2Column" msprop:Generator_UserColumnName="Periode2" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Totaux_p2" msprop:Generator_ColumnVarNameInTable="columnTotaux_p2" msprop:Generator_ColumnPropNameInRow="Totaux_p2" msprop:Generator_ColumnPropNameInTable="Totaux_p2Column" msprop:Generator_UserColumnName="Totaux_p2" type="xs:double" minOccurs="0" />
+              <xs:element name="MG_p2" msprop:Generator_ColumnVarNameInTable="columnMG_p2" msprop:Generator_ColumnPropNameInRow="MG_p2" msprop:Generator_ColumnPropNameInTable="MG_p2Column" msprop:Generator_UserColumnName="MG_p2" type="xs:double" minOccurs="0" />
+              <xs:element name="Pourcentage_p2" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnPourcentage_p2" msprop:Generator_ColumnPropNameInRow="Pourcentage_p2" msprop:Generator_ColumnPropNameInTable="Pourcentage_p2Column" msprop:Generator_UserColumnName="Pourcentage_p2" type="xs:double" minOccurs="0" />
+              <xs:element name="cote_Exam1" msprop:Generator_ColumnVarNameInTable="columncote_Exam1" msprop:Generator_ColumnPropNameInRow="cote_Exam1" msprop:Generator_ColumnPropNameInTable="cote_Exam1Column" msprop:Generator_UserColumnName="cote_Exam1" type="xs:double" minOccurs="0" />
+              <xs:element name="maxima_Exam1" msprop:Generator_ColumnVarNameInTable="columnmaxima_Exam1" msprop:Generator_ColumnPropNameInRow="maxima_Exam1" msprop:Generator_ColumnPropNameInTable="maxima_Exam1Column" msprop:Generator_UserColumnName="maxima_Exam1" type="xs:double" minOccurs="0" />
+              <xs:element name="PeriodeExam1" msprop:Generator_ColumnVarNameInTable="columnPeriodeExam1" msprop:Generator_ColumnPropNameInRow="PeriodeExam1" msprop:Generator_ColumnPropNameInTable="PeriodeExam1Column" msprop:Generator_UserColumnName="PeriodeExam1" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Totaux_Exam1" msprop:Generator_ColumnVarNameInTable="columnTotaux_Exam1" msprop:Generator_ColumnPropNameInRow="Totaux_Exam1" msprop:Generator_ColumnPropNameInTable="Totaux_Exam1Column" msprop:Generator_UserColumnName="Totaux_Exam1" type="xs:double" minOccurs="0" />
+              <xs:element name="MG_Exam1" msprop:Generator_ColumnVarNameInTable="columnMG_Exam1" msprop:Generator_ColumnPropNameInRow="MG_Exam1" msprop:Generator_ColumnPropNameInTable="MG_Exam1Column" msprop:Generator_UserColumnName="MG_Exam1" type="xs:double" minOccurs="0" />
+              <xs:element name="Pourcentage_Exam1" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnPourcentage_Exam1" msprop:Generator_ColumnPropNameInRow="Pourcentage_Exam1" msprop:Generator_ColumnPropNameInTable="Pourcentage_Exam1Column" msprop:Generator_UserColumnName="Pourcentage_Exam1" type="xs:double" minOccurs="0" />
+              <xs:element name="cote_Tot1" msprop:Generator_ColumnVarNameInTable="columncote_Tot1" msprop:Generator_ColumnPropNameInRow="cote_Tot1" msprop:Generator_ColumnPropNameInTable="cote_Tot1Column" msprop:Generator_UserColumnName="cote_Tot1" type="xs:double" minOccurs="0" />
+              <xs:element name="maxima_Tot1" msprop:Generator_ColumnVarNameInTable="columnmaxima_Tot1" msprop:Generator_ColumnPropNameInRow="maxima_Tot1" msprop:Generator_ColumnPropNameInTable="maxima_Tot1Column" msprop:Generator_UserColumnName="maxima_Tot1" type="xs:double" minOccurs="0" />
+              <xs:element name="PeriodeTot1" msprop:Generator_ColumnVarNameInTable="columnPeriodeTot1" msprop:Generator_ColumnPropNameInRow="PeriodeTot1" msprop:Generator_ColumnPropNameInTable="PeriodeTot1Column" msprop:Generator_UserColumnName="PeriodeTot1" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Totaux_Tot1" msprop:Generator_ColumnVarNameInTable="columnTotaux_Tot1" msprop:Generator_ColumnPropNameInRow="Totaux_Tot1" msprop:Generator_ColumnPropNameInTable="Totaux_Tot1Column" msprop:Generator_UserColumnName="Totaux_Tot1" type="xs:double" minOccurs="0" />
+              <xs:element name="MG_Tot1" msprop:Generator_ColumnVarNameInTable="columnMG_Tot1" msprop:Generator_ColumnPropNameInRow="MG_Tot1" msprop:Generator_ColumnPropNameInTable="MG_Tot1Column" msprop:Generator_UserColumnName="MG_Tot1" type="xs:double" minOccurs="0" />
+              <xs:element name="Pourcentage_Tot1" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnPourcentage_Tot1" msprop:Generator_ColumnPropNameInRow="Pourcentage_Tot1" msprop:Generator_ColumnPropNameInTable="Pourcentage_Tot1Column" msprop:Generator_UserColumnName="Pourcentage_Tot1" type="xs:double" minOccurs="0" />
+              <xs:element name="cote_p3" msprop:Generator_ColumnVarNameInTable="columncote_p3" msprop:Generator_ColumnPropNameInRow="cote_p3" msprop:Generator_ColumnPropNameInTable="cote_p3Column" msprop:Generator_UserColumnName="cote_p3" type="xs:double" minOccurs="0" />
+              <xs:element name="maxima_p3" msprop:Generator_ColumnVarNameInTable="columnmaxima_p3" msprop:Generator_ColumnPropNameInRow="maxima_p3" msprop:Generator_ColumnPropNameInTable="maxima_p3Column" msprop:Generator_UserColumnName="maxima_p3" type="xs:double" minOccurs="0" />
+              <xs:element name="Periode3" msprop:Generator_ColumnVarNameInTable="columnPeriode3" msprop:Generator_ColumnPropNameInRow="Periode3" msprop:Generator_ColumnPropNameInTable="Periode3Column" msprop:Generator_UserColumnName="Periode3" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Totaux_P3" msprop:Generator_ColumnVarNameInTable="columnTotaux_P3" msprop:Generator_ColumnPropNameInRow="Totaux_P3" msprop:Generator_ColumnPropNameInTable="Totaux_P3Column" msprop:Generator_UserColumnName="Totaux_P3" type="xs:double" minOccurs="0" />
+              <xs:element name="MG_P3" msprop:Generator_ColumnVarNameInTable="columnMG_P3" msprop:Generator_ColumnPropNameInRow="MG_P3" msprop:Generator_ColumnPropNameInTable="MG_P3Column" msprop:Generator_UserColumnName="MG_P3" type="xs:double" minOccurs="0" />
+              <xs:element name="Pourcentage_P3" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnPourcentage_P3" msprop:Generator_ColumnPropNameInRow="Pourcentage_P3" msprop:Generator_ColumnPropNameInTable="Pourcentage_P3Column" msprop:Generator_UserColumnName="Pourcentage_P3" type="xs:double" minOccurs="0" />
+              <xs:element name="cote_P4" msprop:Generator_ColumnVarNameInTable="columncote_P4" msprop:Generator_ColumnPropNameInRow="cote_P4" msprop:Generator_ColumnPropNameInTable="cote_P4Column" msprop:Generator_UserColumnName="cote_P4" type="xs:double" minOccurs="0" />
+              <xs:element name="maxima_P4" msprop:Generator_ColumnVarNameInTable="columnmaxima_P4" msprop:Generator_ColumnPropNameInRow="maxima_P4" msprop:Generator_ColumnPropNameInTable="maxima_P4Column" msprop:Generator_UserColumnName="maxima_P4" type="xs:double" minOccurs="0" />
+              <xs:element name="Periode4" msprop:Generator_ColumnVarNameInTable="columnPeriode4" msprop:Generator_ColumnPropNameInRow="Periode4" msprop:Generator_ColumnPropNameInTable="Periode4Column" msprop:Generator_UserColumnName="Periode4" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Totaux_P4" msprop:Generator_ColumnVarNameInTable="columnTotaux_P4" msprop:Generator_ColumnPropNameInRow="Totaux_P4" msprop:Generator_ColumnPropNameInTable="Totaux_P4Column" msprop:Generator_UserColumnName="Totaux_P4" type="xs:double" minOccurs="0" />
+              <xs:element name="MG_P4" msprop:Generator_ColumnVarNameInTable="columnMG_P4" msprop:Generator_ColumnPropNameInRow="MG_P4" msprop:Generator_ColumnPropNameInTable="MG_P4Column" msprop:Generator_UserColumnName="MG_P4" type="xs:double" minOccurs="0" />
+              <xs:element name="Pourcentage_P4" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnPourcentage_P4" msprop:Generator_ColumnPropNameInRow="Pourcentage_P4" msprop:Generator_ColumnPropNameInTable="Pourcentage_P4Column" msprop:Generator_UserColumnName="Pourcentage_P4" type="xs:double" minOccurs="0" />
+              <xs:element name="cote_Exam2" msprop:Generator_ColumnVarNameInTable="columncote_Exam2" msprop:Generator_ColumnPropNameInRow="cote_Exam2" msprop:Generator_ColumnPropNameInTable="cote_Exam2Column" msprop:Generator_UserColumnName="cote_Exam2" type="xs:double" minOccurs="0" />
+              <xs:element name="maximaExam2" msprop:Generator_ColumnVarNameInTable="columnmaximaExam2" msprop:Generator_ColumnPropNameInRow="maximaExam2" msprop:Generator_ColumnPropNameInTable="maximaExam2Column" msprop:Generator_UserColumnName="maximaExam2" type="xs:double" minOccurs="0" />
+              <xs:element name="PeriodeExam2" msprop:Generator_ColumnVarNameInTable="columnPeriodeExam2" msprop:Generator_ColumnPropNameInRow="PeriodeExam2" msprop:Generator_ColumnPropNameInTable="PeriodeExam2Column" msprop:Generator_UserColumnName="PeriodeExam2" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Totaux_Exam2" msprop:Generator_ColumnVarNameInTable="columnTotaux_Exam2" msprop:Generator_ColumnPropNameInRow="Totaux_Exam2" msprop:Generator_ColumnPropNameInTable="Totaux_Exam2Column" msprop:Generator_UserColumnName="Totaux_Exam2" type="xs:double" minOccurs="0" />
+              <xs:element name="MG_Exam2" msprop:Generator_ColumnVarNameInTable="columnMG_Exam2" msprop:Generator_ColumnPropNameInRow="MG_Exam2" msprop:Generator_ColumnPropNameInTable="MG_Exam2Column" msprop:Generator_UserColumnName="MG_Exam2" type="xs:double" minOccurs="0" />
+              <xs:element name="Pourcentage_Exam2" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnPourcentage_Exam2" msprop:Generator_ColumnPropNameInRow="Pourcentage_Exam2" msprop:Generator_ColumnPropNameInTable="Pourcentage_Exam2Column" msprop:Generator_UserColumnName="Pourcentage_Exam2" type="xs:double" minOccurs="0" />
+              <xs:element name="cote_Tot2" msprop:Generator_ColumnVarNameInTable="columncote_Tot2" msprop:Generator_ColumnPropNameInRow="cote_Tot2" msprop:Generator_ColumnPropNameInTable="cote_Tot2Column" msprop:Generator_UserColumnName="cote_Tot2" type="xs:double" minOccurs="0" />
+              <xs:element name="maxima_Tot2" msprop:Generator_ColumnVarNameInTable="columnmaxima_Tot2" msprop:Generator_ColumnPropNameInRow="maxima_Tot2" msprop:Generator_ColumnPropNameInTable="maxima_Tot2Column" msprop:Generator_UserColumnName="maxima_Tot2" type="xs:double" minOccurs="0" />
+              <xs:element name="PeriodeTot2" msprop:Generator_ColumnVarNameInTable="columnPeriodeTot2" msprop:Generator_ColumnPropNameInRow="PeriodeTot2" msprop:Generator_ColumnPropNameInTable="PeriodeTot2Column" msprop:Generator_UserColumnName="PeriodeTot2" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Totaux_Tot2" msprop:Generator_ColumnVarNameInTable="columnTotaux_Tot2" msprop:Generator_ColumnPropNameInRow="Totaux_Tot2" msprop:Generator_ColumnPropNameInTable="Totaux_Tot2Column" msprop:Generator_UserColumnName="Totaux_Tot2" type="xs:double" minOccurs="0" />
+              <xs:element name="MG_Tot2" msprop:Generator_ColumnVarNameInTable="columnMG_Tot2" msprop:Generator_ColumnPropNameInRow="MG_Tot2" msprop:Generator_ColumnPropNameInTable="MG_Tot2Column" msprop:Generator_UserColumnName="MG_Tot2" type="xs:double" minOccurs="0" />
+              <xs:element name="Pourcentage_Tot2" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnPourcentage_Tot2" msprop:Generator_ColumnPropNameInRow="Pourcentage_Tot2" msprop:Generator_ColumnPropNameInTable="Pourcentage_Tot2Column" msprop:Generator_UserColumnName="Pourcentage_Tot2" type="xs:double" minOccurs="0" />
+              <xs:element name="cote_TG" msprop:Generator_ColumnVarNameInTable="columncote_TG" msprop:Generator_ColumnPropNameInRow="cote_TG" msprop:Generator_ColumnPropNameInTable="cote_TGColumn" msprop:Generator_UserColumnName="cote_TG" type="xs:double" minOccurs="0" />
+              <xs:element name="maxima_TG" msprop:Generator_ColumnVarNameInTable="columnmaxima_TG" msprop:Generator_ColumnPropNameInRow="maxima_TG" msprop:Generator_ColumnPropNameInTable="maxima_TGColumn" msprop:Generator_UserColumnName="maxima_TG" type="xs:double" minOccurs="0" />
+              <xs:element name="PeriodeTG" msprop:Generator_ColumnVarNameInTable="columnPeriodeTG" msprop:Generator_ColumnPropNameInRow="PeriodeTG" msprop:Generator_ColumnPropNameInTable="PeriodeTGColumn" msprop:Generator_UserColumnName="PeriodeTG" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Totaux_TG" msprop:Generator_ColumnVarNameInTable="columnTotaux_TG" msprop:Generator_ColumnPropNameInRow="Totaux_TG" msprop:Generator_ColumnPropNameInTable="Totaux_TGColumn" msprop:Generator_UserColumnName="Totaux_TG" type="xs:double" minOccurs="0" />
+              <xs:element name="MG_TG" msprop:Generator_ColumnVarNameInTable="columnMG_TG" msprop:Generator_ColumnPropNameInRow="MG_TG" msprop:Generator_ColumnPropNameInTable="MG_TGColumn" msprop:Generator_UserColumnName="MG_TG" type="xs:double" minOccurs="0" />
+              <xs:element name="Pourcentage_TG" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnPourcentage_TG" msprop:Generator_ColumnPropNameInRow="Pourcentage_TG" msprop:Generator_ColumnPropNameInTable="Pourcentage_TGColumn" msprop:Generator_UserColumnName="Pourcentage_TG" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Proclamation_Final" />
+      <xs:field xpath="mstns:Matricule" />
+      <xs:field xpath="mstns:Code_cote" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetChat" targetNamespace="http://tempuri.org/DataSetChat.xsd" xmlns:mstns="http://tempuri.org/DataSetChat.xsd" xmlns="http://tempuri.org/DataSetChat.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ecole_bdConnectionString1" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ecole_bdConnectionString1 (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Ecole.Properties.Settings.GlobalReference.Default.ecole_bdConnectionString1" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="viewStatistiqueInscriptionTableAdapter" GeneratorDataComponentClassName="viewStatistiqueInscriptionTableAdapter" Name="viewStatistiqueInscription" UserDataComponentName="viewStatistiqueInscriptionTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ecole_bdConnectionString1 (Settings)" DbObjectName="ecole_bd.dbo.viewStatistiqueInscription" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Classe, codesection, codeoption, Annee, NombreInscription FROM dbo.viewStatistiqueInscription</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Classe" DataSetColumn="Classe" />
+              <Mapping SourceColumn="codesection" DataSetColumn="codesection" />
+              <Mapping SourceColumn="codeoption" DataSetColumn="codeoption" />
+              <Mapping SourceColumn="Annee" DataSetColumn="Annee" />
+              <Mapping SourceColumn="NombreInscription" DataSetColumn="NombreInscription" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetChat" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetChat" msprop:Generator_UserDSName="DataSetChat">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="viewStatistiqueInscription" msprop:Generator_TableClassName="viewStatistiqueInscriptionDataTable" msprop:Generator_TableVarName="tableviewStatistiqueInscription" msprop:Generator_TablePropName="viewStatistiqueInscription" msprop:Generator_RowDeletingName="viewStatistiqueInscriptionRowDeleting" msprop:Generator_RowChangingName="viewStatistiqueInscriptionRowChanging" msprop:Generator_RowEvHandlerName="viewStatistiqueInscriptionRowChangeEventHandler" msprop:Generator_RowDeletedName="viewStatistiqueInscriptionRowDeleted" msprop:Generator_UserTableName="viewStatistiqueInscription" msprop:Generator_RowChangedName="viewStatistiqueInscriptionRowChanged" msprop:Generator_RowEvArgName="viewStatistiqueInscriptionRowChangeEvent" msprop:Generator_RowClassName="viewStatistiqueInscriptionRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Classe" msprop:Generator_ColumnVarNameInTable="columnClasse" msprop:Generator_ColumnPropNameInRow="Classe" msprop:Generator_ColumnPropNameInTable="ClasseColumn" msprop:Generator_UserColumnName="Classe" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="codesection" msprop:Generator_ColumnVarNameInTable="columncodesection" msprop:Generator_ColumnPropNameInRow="codesection" msprop:Generator_ColumnPropNameInTable="codesectionColumn" msprop:Generator_UserColumnName="codesection" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="codeoption" msprop:Generator_ColumnVarNameInTable="columncodeoption" msprop:Generator_ColumnPropNameInRow="codeoption" msprop:Generator_ColumnPropNameInTable="codeoptionColumn" msprop:Generator_UserColumnName="codeoption" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Annee" msprop:Generator_ColumnVarNameInTable="columnAnnee" msprop:Generator_ColumnPropNameInRow="Annee" msprop:Generator_ColumnPropNameInTable="AnneeColumn" msprop:Generator_UserColumnName="Annee" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NombreInscription" msprop:Generator_ColumnVarNameInTable="columnNombreInscription" msprop:Generator_ColumnPropNameInRow="NombreInscription" msprop:Generator_ColumnPropNameInTable="NombreInscriptionColumn" msprop:Generator_UserColumnName="NombreInscription" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

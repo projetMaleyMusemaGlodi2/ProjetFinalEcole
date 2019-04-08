@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DTS_palmarece" targetNamespace="http://tempuri.org/DTS_palmarece.xsd" xmlns:mstns="http://tempuri.org/DTS_palmarece.xsd" xmlns="http://tempuri.org/DTS_palmarece.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ecole_bdConnectionString1" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ecole_bdConnectionString1 (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Ecole.Properties.Settings.GlobalReference.Default.ecole_bdConnectionString1" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Pourcentage_GeneralTableAdapter" GeneratorDataComponentClassName="Pourcentage_GeneralTableAdapter" Name="Pourcentage_General" UserDataComponentName="Pourcentage_GeneralTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ecole_bdConnectionString1 (Settings)" DbObjectName="ecole_bd.dbo.Pourcentage_General" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Codeeleve, Matricule, Nom, PostNom, Prenom, Sexe, Classe, Affectation, Section, Option_Eleve, Pourcentage_p1, Pourcentage_p2, Pourcentage_Exam1, Pourcentage_Tot1, Pourcentage_P3, Pourcentage_P4, Pourcentage_Exam2, Pourcentage_Tot2, Pourcentage_TG, annee FROM dbo.Pourcentage_General</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Codeeleve" DataSetColumn="Codeeleve" />
+              <Mapping SourceColumn="Matricule" DataSetColumn="Matricule" />
+              <Mapping SourceColumn="Nom" DataSetColumn="Nom" />
+              <Mapping SourceColumn="PostNom" DataSetColumn="PostNom" />
+              <Mapping SourceColumn="Prenom" DataSetColumn="Prenom" />
+              <Mapping SourceColumn="Sexe" DataSetColumn="Sexe" />
+              <Mapping SourceColumn="Classe" DataSetColumn="Classe" />
+              <Mapping SourceColumn="Affectation" DataSetColumn="Affectation" />
+              <Mapping SourceColumn="Section" DataSetColumn="Section" />
+              <Mapping SourceColumn="Option_Eleve" DataSetColumn="Option_Eleve" />
+              <Mapping SourceColumn="Pourcentage_p1" DataSetColumn="Pourcentage_p1" />
+              <Mapping SourceColumn="Pourcentage_p2" DataSetColumn="Pourcentage_p2" />
+              <Mapping SourceColumn="Pourcentage_Exam1" DataSetColumn="Pourcentage_Exam1" />
+              <Mapping SourceColumn="Pourcentage_Tot1" DataSetColumn="Pourcentage_Tot1" />
+              <Mapping SourceColumn="Pourcentage_P3" DataSetColumn="Pourcentage_P3" />
+              <Mapping SourceColumn="Pourcentage_P4" DataSetColumn="Pourcentage_P4" />
+              <Mapping SourceColumn="Pourcentage_Exam2" DataSetColumn="Pourcentage_Exam2" />
+              <Mapping SourceColumn="Pourcentage_Tot2" DataSetColumn="Pourcentage_Tot2" />
+              <Mapping SourceColumn="Pourcentage_TG" DataSetColumn="Pourcentage_TG" />
+              <Mapping SourceColumn="annee" DataSetColumn="annee" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DTS_palmarece" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DTS_palmarece" msprop:Generator_UserDSName="DTS_palmarece">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Pourcentage_General" msprop:Generator_TableClassName="Pourcentage_GeneralDataTable" msprop:Generator_TableVarName="tablePourcentage_General" msprop:Generator_TablePropName="Pourcentage_General" msprop:Generator_RowDeletingName="Pourcentage_GeneralRowDeleting" msprop:Generator_RowChangingName="Pourcentage_GeneralRowChanging" msprop:Generator_RowEvHandlerName="Pourcentage_GeneralRowChangeEventHandler" msprop:Generator_RowDeletedName="Pourcentage_GeneralRowDeleted" msprop:Generator_UserTableName="Pourcentage_General" msprop:Generator_RowChangedName="Pourcentage_GeneralRowChanged" msprop:Generator_RowEvArgName="Pourcentage_GeneralRowChangeEvent" msprop:Generator_RowClassName="Pourcentage_GeneralRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Codeeleve" msprop:Generator_ColumnVarNameInTable="columnCodeeleve" msprop:Generator_ColumnPropNameInRow="Codeeleve" msprop:Generator_ColumnPropNameInTable="CodeeleveColumn" msprop:Generator_UserColumnName="Codeeleve" type="xs:int" minOccurs="0" />
+              <xs:element name="Matricule" msprop:Generator_ColumnVarNameInTable="columnMatricule" msprop:Generator_ColumnPropNameInRow="Matricule" msprop:Generator_ColumnPropNameInTable="MatriculeColumn" msprop:Generator_UserColumnName="Matricule">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Nom" msprop:Generator_ColumnVarNameInTable="columnNom" msprop:Generator_ColumnPropNameInRow="Nom" msprop:Generator_ColumnPropNameInTable="NomColumn" msprop:Generator_UserColumnName="Nom" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PostNom" msprop:Generator_ColumnVarNameInTable="columnPostNom" msprop:Generator_ColumnPropNameInRow="PostNom" msprop:Generator_ColumnPropNameInTable="PostNomColumn" msprop:Generator_UserColumnName="PostNom" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Prenom" msprop:Generator_ColumnVarNameInTable="columnPrenom" msprop:Generator_ColumnPropNameInRow="Prenom" msprop:Generator_ColumnPropNameInTable="PrenomColumn" msprop:Generator_UserColumnName="Prenom" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Sexe" msprop:Generator_ColumnVarNameInTable="columnSexe" msprop:Generator_ColumnPropNameInRow="Sexe" msprop:Generator_ColumnPropNameInTable="SexeColumn" msprop:Generator_UserColumnName="Sexe" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Classe" msprop:Generator_ColumnVarNameInTable="columnClasse" msprop:Generator_ColumnPropNameInRow="Classe" msprop:Generator_ColumnPropNameInTable="ClasseColumn" msprop:Generator_UserColumnName="Classe" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Affectation" msprop:Generator_ColumnVarNameInTable="columnAffectation" msprop:Generator_ColumnPropNameInRow="Affectation" msprop:Generator_ColumnPropNameInTable="AffectationColumn" msprop:Generator_UserColumnName="Affectation" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Section" msprop:Generator_ColumnVarNameInTable="columnSection" msprop:Generator_ColumnPropNameInRow="Section" msprop:Generator_ColumnPropNameInTable="SectionColumn" msprop:Generator_UserColumnName="Section" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Option_Eleve" msprop:Generator_ColumnVarNameInTable="columnOption_Eleve" msprop:Generator_ColumnPropNameInRow="Option_Eleve" msprop:Generator_ColumnPropNameInTable="Option_EleveColumn" msprop:Generator_UserColumnName="Option_Eleve" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Pourcentage_p1" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnPourcentage_p1" msprop:Generator_ColumnPropNameInRow="Pourcentage_p1" msprop:Generator_ColumnPropNameInTable="Pourcentage_p1Column" msprop:Generator_UserColumnName="Pourcentage_p1" type="xs:double" minOccurs="0" />
+              <xs:element name="Pourcentage_p2" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnPourcentage_p2" msprop:Generator_ColumnPropNameInRow="Pourcentage_p2" msprop:Generator_ColumnPropNameInTable="Pourcentage_p2Column" msprop:Generator_UserColumnName="Pourcentage_p2" type="xs:double" minOccurs="0" />
+              <xs:element name="Pourcentage_Exam1" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnPourcentage_Exam1" msprop:Generator_ColumnPropNameInRow="Pourcentage_Exam1" msprop:Generator_ColumnPropNameInTable="Pourcentage_Exam1Column" msprop:Generator_UserColumnName="Pourcentage_Exam1" type="xs:double" minOccurs="0" />
+              <xs:element name="Pourcentage_Tot1" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnPourcentage_Tot1" msprop:Generator_ColumnPropNameInRow="Pourcentage_Tot1" msprop:Generator_ColumnPropNameInTable="Pourcentage_Tot1Column" msprop:Generator_UserColumnName="Pourcentage_Tot1" type="xs:double" minOccurs="0" />
+              <xs:element name="Pourcentage_P3" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnPourcentage_P3" msprop:Generator_ColumnPropNameInRow="Pourcentage_P3" msprop:Generator_ColumnPropNameInTable="Pourcentage_P3Column" msprop:Generator_UserColumnName="Pourcentage_P3" type="xs:double" minOccurs="0" />
+              <xs:element name="Pourcentage_P4" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnPourcentage_P4" msprop:Generator_ColumnPropNameInRow="Pourcentage_P4" msprop:Generator_ColumnPropNameInTable="Pourcentage_P4Column" msprop:Generator_UserColumnName="Pourcentage_P4" type="xs:double" minOccurs="0" />
+              <xs:element name="Pourcentage_Exam2" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnPourcentage_Exam2" msprop:Generator_ColumnPropNameInRow="Pourcentage_Exam2" msprop:Generator_ColumnPropNameInTable="Pourcentage_Exam2Column" msprop:Generator_UserColumnName="Pourcentage_Exam2" type="xs:double" minOccurs="0" />
+              <xs:element name="Pourcentage_Tot2" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnPourcentage_Tot2" msprop:Generator_ColumnPropNameInRow="Pourcentage_Tot2" msprop:Generator_ColumnPropNameInTable="Pourcentage_Tot2Column" msprop:Generator_UserColumnName="Pourcentage_Tot2" type="xs:double" minOccurs="0" />
+              <xs:element name="Pourcentage_TG" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnPourcentage_TG" msprop:Generator_ColumnPropNameInRow="Pourcentage_TG" msprop:Generator_ColumnPropNameInTable="Pourcentage_TGColumn" msprop:Generator_UserColumnName="Pourcentage_TG" type="xs:double" minOccurs="0" />
+              <xs:element name="annee" msprop:Generator_ColumnVarNameInTable="columnannee" msprop:Generator_ColumnPropNameInRow="annee" msprop:Generator_ColumnPropNameInTable="anneeColumn" msprop:Generator_UserColumnName="annee" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Pourcentage_General" />
+      <xs:field xpath="mstns:Matricule" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

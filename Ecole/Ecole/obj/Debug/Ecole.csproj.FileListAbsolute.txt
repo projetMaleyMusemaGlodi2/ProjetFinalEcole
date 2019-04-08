@@ -1,0 +1,1528 @@
+E:\les projets c#\Ecole\Ecole\bin\Debug\Ecole.exe.config
+E:\les projets c#\Ecole\Ecole\bin\Debug\Ecole.exe
+E:\les projets c#\Ecole\Ecole\bin\Debug\Ecole.pdb
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.Data.v15.2.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.Utils.v15.2.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.Data.v15.2.xml
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.Utils.v15.2.xml
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+E:\les projets c#\Ecole\Ecole\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\les projets c#\Ecole\Ecole\obj\Debug\Ecole.csprojResolveAssemblyReference.cache
+E:\les projets c#\Ecole\Ecole\obj\Debug\Ecole.Ecole1.resources
+E:\les projets c#\Ecole\Ecole\obj\Debug\Ecole.Properties.Resources.resources
+E:\les projets c#\Ecole\Ecole\obj\Debug\Ecole.csproj.GenerateResource.Cache
+E:\les projets c#\Ecole\Ecole\obj\Debug\Ecole.exe
+E:\les projets c#\Ecole\Ecole\obj\Debug\Ecole.pdb
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.XtraBars.v15.2.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.XtraBars.v15.2.xml
+E:\les projets c#\Ecole\Ecole\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\obj\Debug\Ecole.exe.licenses
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.Office.v15.2.Core.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.Office.v15.2.Core.xml
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+E:\les projets c#\Ecole\Ecole\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.DataAccess.v15.2.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.PivotGrid.v15.2.Core.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.Utils.v15.2.UI.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.Xpo.v15.2.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.XtraGauges.v15.2.Core.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.XtraReports.v15.2.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.CodeParser.v15.2.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.XtraRichEdit.v15.2.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.DataAccess.v15.2.UI.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.Extensions.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.XtraPivotGrid.v15.2.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.DataAccess.v15.2.xml
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.PivotGrid.v15.2.Core.xml
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.Xpo.v15.2.xml
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.XtraGauges.v15.2.Core.xml
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.XtraReports.v15.2.xml
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.xml
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.XtraRichEdit.v15.2.xml
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.DataAccess.v15.2.UI.xml
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.XtraPivotGrid.v15.2.xml
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+E:\les projets c#\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+E:\les projets c#\Ecole\Ecole\bin\Debug\de\DevExpress.DataAccess.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\es\DevExpress.DataAccess.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ja\DevExpress.DataAccess.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ru\DevExpress.DataAccess.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\de\DevExpress.Xpo.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\es\DevExpress.Xpo.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ja\DevExpress.Xpo.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ru\DevExpress.Xpo.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\de\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\es\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\de\DevExpress.XtraReports.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\es\DevExpress.XtraReports.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraReports.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraReports.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\de\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\es\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\de\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\es\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ja\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ru\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\de\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\es\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\les projets c#\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\les projets c#\Ecole\Ecole\obj\Debug\Ecole.raport_inscription.resources
+E:\les projets c#\Ecole\Ecole\obj\Debug\Ecole.report_paiement.resources
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\Ecole.exe.config
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\obj\Debug\Ecole.exe
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\obj\Debug\Ecole.pdb
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\Ecole.exe
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\Ecole.pdb
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.DataAccess.v15.2.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.Office.v15.2.Core.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.PivotGrid.v15.2.Core.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.Utils.v15.2.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.Utils.v15.2.UI.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.Xpo.v15.2.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.XtraBars.v15.2.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.XtraGauges.v15.2.Core.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.XtraReports.v15.2.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.CodeParser.v15.2.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.XtraRichEdit.v15.2.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.DataAccess.v15.2.UI.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.Extensions.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.XtraPivotGrid.v15.2.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.DataAccess.v15.2.xml
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.Office.v15.2.Core.xml
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.PivotGrid.v15.2.Core.xml
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.Xpo.v15.2.xml
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.XtraBars.v15.2.xml
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.XtraGauges.v15.2.Core.xml
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.XtraReports.v15.2.xml
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.xml
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.XtraRichEdit.v15.2.xml
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.DataAccess.v15.2.UI.xml
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.XtraPivotGrid.v15.2.xml
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\de\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\es\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ja\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ru\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\de\DevExpress.Xpo.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\es\DevExpress.Xpo.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ja\DevExpress.Xpo.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ru\DevExpress.Xpo.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\de\DevExpress.DataAccess.v15.2.UI.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\es\DevExpress.DataAccess.v15.2.UI.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ja\DevExpress.DataAccess.v15.2.UI.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ru\DevExpress.DataAccess.v15.2.UI.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraPivotGrid.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraPivotGrid.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\obj\Debug\Ecole.Ecole1.resources
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\obj\Debug\Ecole.Properties.Resources.resources
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\obj\Debug\Ecole.csproj.GenerateResource.Cache
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\obj\Debug\Ecole.exe.licenses
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\obj\Debug\Ecole.ProgressBar_1.resources
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\obj\Debug\Ecole.billet_inscription.resources
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\obj\Debug\Ecole.recus_paiement.resources
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\obj\Debug\Ecole.Carte_eleve.resources
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\obj\Debug\Ecole.carte_service.resources
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\obj\Debug\Ecole.billet_inscription1.resources
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\obj\Debug\Ecole.print_horaire.resources
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\GSMCommShared.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\GSMCommunication.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\PDUConverter.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\bin\Debug\RS232.dll
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\obj\Debug\Ecole.Login1.resources
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\obj\Debug\Ecole.recus_paiement1.resources
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\obj\Debug\Ecole.liste_total_paiement.resources
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\obj\Debug\Ecole.liste_elves.resources
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\obj\Debug\Ecole.liste_identite_eleve.resources
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\obj\Debug\Ecole.Billetin1.resources
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\obj\Debug\Ecole.Billetin_test.resources
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\obj\Debug\Ecole.Billetin_final.resources
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\obj\Debug\Ecole.Carte_bibliotheque.resources
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\obj\Debug\Ecole.La_liste_des_cours.resources
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\obj\Debug\Ecole.liste_proclamation.resources
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\obj\Debug\Ecole.borderau_sortie.resources
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\obj\Debug\Ecole.XtraReport1.resources
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole\obj\Debug\Ecole.csprojResolveAssemblyReference.cache
+F:\Forefox1\Fire1\Ecole\Ecole\bin\Debug\Ecole.exe.config
+F:\Forefox1\Fire1\Ecole\Ecole\obj\Debug\Ecole.exe
+F:\Forefox1\Fire1\Ecole\Ecole\obj\Debug\Ecole.pdb
+J:\Forefox1\Fire1\Ecole\Ecole\bin\Debug\Ecole.exe.config
+J:\Forefox1\Fire1\Ecole\Ecole\obj\Debug\Ecole.exe
+J:\Forefox1\Fire1\Ecole\Ecole\obj\Debug\Ecole.pdb
+E:\Fire1\Ecole\Ecole\bin\Debug\Ecole.exe.config
+E:\Fire1\Ecole\Ecole\obj\Debug\Ecole.exe
+E:\Fire1\Ecole\Ecole\obj\Debug\Ecole.pdb
+E:\Fire1\Ecole\Ecole\bin\Debug\Ecole.exe
+E:\Fire1\Ecole\Ecole\bin\Debug\Ecole.pdb
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Data.v15.2.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.DataAccess.v15.2.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Office.v15.2.Core.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.PivotGrid.v15.2.Core.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Utils.v15.2.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Utils.v15.2.UI.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Xpo.v15.2.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraBars.v15.2.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraGauges.v15.2.Core.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraReports.v15.2.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.CodeParser.v15.2.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraRichEdit.v15.2.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.DataAccess.v15.2.UI.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.Extensions.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraPivotGrid.v15.2.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Data.v15.2.xml
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.DataAccess.v15.2.xml
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Office.v15.2.Core.xml
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.PivotGrid.v15.2.Core.xml
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Utils.v15.2.xml
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Xpo.v15.2.xml
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraBars.v15.2.xml
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraGauges.v15.2.Core.xml
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraReports.v15.2.xml
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.xml
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraRichEdit.v15.2.xml
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.DataAccess.v15.2.UI.xml
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraPivotGrid.v15.2.xml
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+E:\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+E:\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.DataAccess.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.DataAccess.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.DataAccess.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.DataAccess.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.Xpo.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.Xpo.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.Xpo.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.Xpo.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.XtraReports.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.XtraReports.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraReports.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraReports.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Fire1\Ecole\Ecole\obj\Debug\Ecole.csprojResolveAssemblyReference.cache
+E:\Fire1\Ecole\Ecole\obj\Debug\Ecole.Billetin1.resources
+E:\Fire1\Ecole\Ecole\obj\Debug\Ecole.Billetin_final.resources
+E:\Fire1\Ecole\Ecole\obj\Debug\Ecole.Billetin_test.resources
+E:\Fire1\Ecole\Ecole\obj\Debug\Ecole.billet_inscription.resources
+E:\Fire1\Ecole\Ecole\obj\Debug\Ecole.billet_inscription1.resources
+E:\Fire1\Ecole\Ecole\obj\Debug\Ecole.Borderau_sortie.resources
+E:\Fire1\Ecole\Ecole\obj\Debug\Ecole.Carte_bibliotheque.resources
+E:\Fire1\Ecole\Ecole\obj\Debug\Ecole.Carte_eleve.resources
+E:\Fire1\Ecole\Ecole\obj\Debug\Ecole.carte_service.resources
+E:\Fire1\Ecole\Ecole\obj\Debug\Ecole.Ecole1.resources
+E:\Fire1\Ecole\Ecole\obj\Debug\Ecole.La_liste_des_cours.resources
+E:\Fire1\Ecole\Ecole\obj\Debug\Ecole.liste_elves.resources
+E:\Fire1\Ecole\Ecole\obj\Debug\Ecole.liste_identite_eleve.resources
+E:\Fire1\Ecole\Ecole\obj\Debug\Ecole.liste_proclamation.resources
+E:\Fire1\Ecole\Ecole\obj\Debug\Ecole.liste_total_paiement.resources
+E:\Fire1\Ecole\Ecole\obj\Debug\Ecole.Login1.resources
+E:\Fire1\Ecole\Ecole\obj\Debug\Ecole.print_horaire.resources
+E:\Fire1\Ecole\Ecole\obj\Debug\Ecole.ProgressBar_1.resources
+E:\Fire1\Ecole\Ecole\obj\Debug\Ecole.Properties.Resources.resources
+E:\Fire1\Ecole\Ecole\obj\Debug\Ecole.recus_paiement.resources
+E:\Fire1\Ecole\Ecole\obj\Debug\Ecole.recus_paiement1.resources
+E:\Fire1\Ecole\Ecole\obj\Debug\Ecole.XtraReport1.resources
+E:\Fire1\Ecole\Ecole\obj\Debug\Ecole.csproj.GenerateResource.Cache
+E:\Fire1\Ecole\Ecole\obj\Debug\Ecole.exe.licenses
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\Ecole.exe.config
+E:\Les proets C#\Fire1\Ecole\Ecole\obj\Debug\Ecole.exe
+E:\Les proets C#\Fire1\Ecole\Ecole\obj\Debug\Ecole.pdb
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\Ecole.exe
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\Ecole.pdb
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Data.v15.2.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.DataAccess.v15.2.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Office.v15.2.Core.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.PivotGrid.v15.2.Core.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Utils.v15.2.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Utils.v15.2.UI.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Xpo.v15.2.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraBars.v15.2.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraGauges.v15.2.Core.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraReports.v15.2.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.CodeParser.v15.2.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraRichEdit.v15.2.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.DataAccess.v15.2.UI.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.Extensions.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraPivotGrid.v15.2.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Data.v15.2.xml
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.DataAccess.v15.2.xml
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Office.v15.2.Core.xml
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.PivotGrid.v15.2.Core.xml
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Utils.v15.2.xml
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Xpo.v15.2.xml
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraBars.v15.2.xml
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraGauges.v15.2.Core.xml
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraReports.v15.2.xml
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.xml
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraRichEdit.v15.2.xml
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.DataAccess.v15.2.UI.xml
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraPivotGrid.v15.2.xml
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.DataAccess.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.DataAccess.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.DataAccess.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.DataAccess.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.Xpo.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.Xpo.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.Xpo.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.Xpo.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.XtraReports.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.XtraReports.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraReports.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraReports.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Les proets C#\Fire1\Ecole\Ecole\obj\Debug\Ecole.Billetin1.resources
+E:\Les proets C#\Fire1\Ecole\Ecole\obj\Debug\Ecole.Billetin_final.resources
+E:\Les proets C#\Fire1\Ecole\Ecole\obj\Debug\Ecole.Billetin_test.resources
+E:\Les proets C#\Fire1\Ecole\Ecole\obj\Debug\Ecole.billet_inscription.resources
+E:\Les proets C#\Fire1\Ecole\Ecole\obj\Debug\Ecole.billet_inscription1.resources
+E:\Les proets C#\Fire1\Ecole\Ecole\obj\Debug\Ecole.Borderau_sortie.resources
+E:\Les proets C#\Fire1\Ecole\Ecole\obj\Debug\Ecole.Carte_bibliotheque.resources
+E:\Les proets C#\Fire1\Ecole\Ecole\obj\Debug\Ecole.Carte_eleve.resources
+E:\Les proets C#\Fire1\Ecole\Ecole\obj\Debug\Ecole.carte_service.resources
+E:\Les proets C#\Fire1\Ecole\Ecole\obj\Debug\Ecole.Ecole1.resources
+E:\Les proets C#\Fire1\Ecole\Ecole\obj\Debug\Ecole.La_liste_des_cours.resources
+E:\Les proets C#\Fire1\Ecole\Ecole\obj\Debug\Ecole.liste_elves.resources
+E:\Les proets C#\Fire1\Ecole\Ecole\obj\Debug\Ecole.liste_identite_eleve.resources
+E:\Les proets C#\Fire1\Ecole\Ecole\obj\Debug\Ecole.liste_proclamation.resources
+E:\Les proets C#\Fire1\Ecole\Ecole\obj\Debug\Ecole.liste_total_paiement.resources
+E:\Les proets C#\Fire1\Ecole\Ecole\obj\Debug\Ecole.Login1.resources
+E:\Les proets C#\Fire1\Ecole\Ecole\obj\Debug\Ecole.print_horaire.resources
+E:\Les proets C#\Fire1\Ecole\Ecole\obj\Debug\Ecole.ProgressBar_1.resources
+E:\Les proets C#\Fire1\Ecole\Ecole\obj\Debug\Ecole.Properties.Resources.resources
+E:\Les proets C#\Fire1\Ecole\Ecole\obj\Debug\Ecole.recus_paiement.resources
+E:\Les proets C#\Fire1\Ecole\Ecole\obj\Debug\Ecole.recus_paiement1.resources
+E:\Les proets C#\Fire1\Ecole\Ecole\obj\Debug\Ecole.XtraReport1.resources
+E:\Les proets C#\Fire1\Ecole\Ecole\obj\Debug\Ecole.csproj.GenerateResource.Cache
+E:\Les proets C#\Fire1\Ecole\Ecole\obj\Debug\Ecole.exe.licenses
+E:\Les proets C#\Fire1\Ecole\Ecole\obj\Debug\Ecole.Form1.resources
+E:\Les proets C#\Fire1\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormConfig.resources
+E:\Les proets C#\Fire1\Ecole\Ecole\obj\Debug\Ecole.report.livre.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\Ecole.exe.config
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.exe
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.pdb
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\Ecole.exe
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\Ecole.pdb
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.Data.v15.2.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.DataAccess.v15.2.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.Office.v15.2.Core.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.PivotGrid.v15.2.Core.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.Utils.v15.2.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.Utils.v15.2.UI.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.Xpo.v15.2.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraBars.v15.2.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraGauges.v15.2.Core.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraReports.v15.2.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.CodeParser.v15.2.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraRichEdit.v15.2.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.DataAccess.v15.2.UI.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.Extensions.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraPivotGrid.v15.2.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.Data.v15.2.xml
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.DataAccess.v15.2.xml
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.Office.v15.2.Core.xml
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.PivotGrid.v15.2.Core.xml
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.Utils.v15.2.xml
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.Xpo.v15.2.xml
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraBars.v15.2.xml
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraGauges.v15.2.Core.xml
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraReports.v15.2.xml
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.xml
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraRichEdit.v15.2.xml
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.DataAccess.v15.2.UI.xml
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraPivotGrid.v15.2.xml
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\de\DevExpress.DataAccess.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\es\DevExpress.DataAccess.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.DataAccess.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.DataAccess.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\de\DevExpress.Xpo.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\es\DevExpress.Xpo.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.Xpo.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.Xpo.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraReports.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraReports.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraReports.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraReports.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\de\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\es\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.Form1.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormConfig.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.Billetin1.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.Billetin_final.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.Billetin_test.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.billet_inscription.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.billet_inscription1.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.Borderau_sortie.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.Carte_bibliotheque.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.Carte_eleve.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.carte_service.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.Ecole1.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.La_liste_des_cours.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.liste_elves.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.liste_total_paiement.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.Login1.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.report.livre.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.print_horaire.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.ProgressBar_1.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.Properties.Resources.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.recus_paiement.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.recus_paiement1.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.XtraReport1.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.csproj.GenerateResource.Cache
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.exe.licenses
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.BonusSkins.v15.2.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.report.Recus_paiement_Final.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.report.Palmaresse.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.usercontroles.userBuckup.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.usercontroles.userrestauration.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.report.Liste_Eleve_dossiers.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.report.Liste_Inscription_general.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.Formulaire.UserParametreEncours.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormParametreEncours.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormRapportComptabilite.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.report.RapportPrevison.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.report.ListePresence.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.report.BulletinPage.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormHoraire.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.report.HoaraireCours.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormRecouvrement.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.report.ListeRecouvrement.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormDiscipline.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormMenssion.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormSplash.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.UI.dll
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.UI.xml
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.report.Form1.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.report.StatistiqueInscription.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.report.XtraReport2.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormPalmaress.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormStatReussiteEchec.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.report.StatPeriode1.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.csprojResolveAssemblyReference.cache
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.report.StatPeriode2.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.report.StatExamen1.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.report.StatExemen2.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.report.StatPeriode3.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.report.StatPeriode4.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.report.StatTG.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.report.StatTotal1.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.report.StatTotal2.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.FormEcole.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.report.TesteListeEns.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormRaport.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.report.RapportInscription.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.report.RapportAffectation.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.report.RapportPaiementFrais.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.report.RapportEmpruntBib.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.report.RapportListeLivre.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormPresence.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.report.RapportListePresence.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.report.RapportPresence.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.report.RapprtMessagerie.resources
+E:\Les proets C#\ApplicationGestionEcole\Ecole\Ecole\obj\Debug\Ecole.report.ListeOption.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\Ecole.exe.config
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.exe
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.pdb
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\Ecole.exe
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\Ecole.pdb
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.BonusSkins.v15.2.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.DataAccess.v15.2.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.Office.v15.2.Core.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.PivotGrid.v15.2.Core.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.Utils.v15.2.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.Utils.v15.2.UI.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.Xpo.v15.2.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.XtraBars.v15.2.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.UI.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.XtraGauges.v15.2.Core.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.XtraReports.v15.2.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.CodeParser.v15.2.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.XtraRichEdit.v15.2.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.DataAccess.v15.2.UI.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.Extensions.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.XtraPivotGrid.v15.2.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.DataAccess.v15.2.xml
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.Office.v15.2.Core.xml
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.PivotGrid.v15.2.Core.xml
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.Xpo.v15.2.xml
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.XtraBars.v15.2.xml
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.UI.xml
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.XtraGauges.v15.2.Core.xml
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.XtraReports.v15.2.xml
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.xml
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.XtraRichEdit.v15.2.xml
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.DataAccess.v15.2.UI.xml
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\DevExpress.XtraPivotGrid.v15.2.xml
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\de\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\es\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ja\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ru\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\de\DevExpress.Xpo.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\es\DevExpress.Xpo.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ja\DevExpress.Xpo.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ru\DevExpress.Xpo.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\de\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\es\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\de\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\es\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\de\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\es\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\de\DevExpress.DataAccess.v15.2.UI.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\es\DevExpress.DataAccess.v15.2.UI.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ja\DevExpress.DataAccess.v15.2.UI.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ru\DevExpress.DataAccess.v15.2.UI.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\de\DevExpress.XtraPivotGrid.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\es\DevExpress.XtraPivotGrid.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.2.resources.dll
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.csprojResolveAssemblyReference.cache
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.Form1.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormConfig.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormDiscipline.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.FormEcole.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormHoraire.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormMenssion.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormPalmaress.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormParametreEncours.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormPresence.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormRaport.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormRapportComptabilite.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormRecouvrement.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormSplash.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormStatReussiteEchec.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.Formulaire.UserParametreEncours.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.Billetin1.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.Billetin_final.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.Billetin_test.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.billet_inscription.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.billet_inscription1.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.Borderau_sortie.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.report.BulletinPage.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.Carte_bibliotheque.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.Carte_eleve.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.carte_service.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.Ecole1.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.report.Form1.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.report.HoaraireCours.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.La_liste_des_cours.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.report.ListeOption.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.report.ListePresence.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.report.ListeRecouvrement.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.report.Liste_Eleve_dossiers.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.liste_elves.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.report.Liste_Inscription_general.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.liste_total_paiement.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.Login1.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.report.livre.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.report.Palmaresse.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.print_horaire.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.ProgressBar_1.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.Properties.Resources.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.report.RapportAffectation.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.report.RapportEmpruntBib.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.report.RapportInscription.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.report.RapportListeLivre.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.report.RapportListePresence.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.report.RapportPaiementFrais.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.report.RapportPresence.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.report.RapportPrevison.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.report.RapprtMessagerie.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.recus_paiement.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.recus_paiement1.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.report.Recus_paiement_Final.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.report.StatExamen1.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.report.StatExemen2.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.report.StatistiqueInscription.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.report.StatPeriode1.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.report.StatPeriode2.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.report.StatPeriode3.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.report.StatPeriode4.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.report.StatTG.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.report.StatTotal1.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.report.StatTotal2.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.report.TesteListeEns.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.XtraReport1.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.report.XtraReport2.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.usercontroles.userBuckup.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.usercontroles.userrestauration.resources
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.csproj.GenerateResource.Cache
+C:\Users\gloDi\Documents\Ecole\Ecole\obj\Debug\Ecole.exe.licenses
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\Ecole.exe.config
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.exe
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.pdb
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\Ecole.exe
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\Ecole.pdb
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.BonusSkins.v15.2.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.Data.v15.2.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.DataAccess.v15.2.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.Office.v15.2.Core.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.PivotGrid.v15.2.Core.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.Utils.v15.2.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.Utils.v15.2.UI.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.Xpo.v15.2.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraBars.v15.2.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.UI.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraGauges.v15.2.Core.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraReports.v15.2.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.CodeParser.v15.2.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraRichEdit.v15.2.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.DataAccess.v15.2.UI.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.Extensions.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraPivotGrid.v15.2.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.Data.v15.2.xml
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.DataAccess.v15.2.xml
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.Office.v15.2.Core.xml
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.PivotGrid.v15.2.Core.xml
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.Utils.v15.2.xml
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.Xpo.v15.2.xml
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraBars.v15.2.xml
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.UI.xml
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraGauges.v15.2.Core.xml
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraReports.v15.2.xml
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.xml
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraRichEdit.v15.2.xml
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.DataAccess.v15.2.UI.xml
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\DevExpress.XtraPivotGrid.v15.2.xml
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\de\DevExpress.DataAccess.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\es\DevExpress.DataAccess.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.DataAccess.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.DataAccess.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\de\DevExpress.Xpo.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\es\DevExpress.Xpo.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.Xpo.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.Xpo.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraReports.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraReports.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraReports.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraReports.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\de\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\es\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\de\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\es\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.csprojResolveAssemblyReference.cache
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.Form1.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormConfig.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormDiscipline.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.FormEcole.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormHoraire.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormMenssion.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormPalmaress.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormParametreEncours.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormPresence.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormRaport.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormRapportComptabilite.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormRecouvrement.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormSplash.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormStatReussiteEchec.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.Formulaire.UserParametreEncours.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.Billetin1.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.Billetin_final.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.Billetin_test.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.billet_inscription.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.billet_inscription1.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.Borderau_sortie.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.report.BulletinPage.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.Carte_bibliotheque.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.Carte_eleve.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.carte_service.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.Ecole1.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.report.Form1.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.report.HoaraireCours.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.La_liste_des_cours.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.report.ListeOption.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.report.ListePresence.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.report.ListeRecouvrement.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.report.Liste_Eleve_dossiers.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.liste_elves.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.report.Liste_Inscription_general.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.liste_total_paiement.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.Login1.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.report.livre.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.report.Palmaresse.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.print_horaire.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.ProgressBar_1.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.Properties.Resources.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.report.RapportAffectation.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.report.RapportEmpruntBib.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.report.RapportInscription.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.report.RapportListeLivre.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.report.RapportListePresence.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.report.RapportPaiementFrais.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.report.RapportPresence.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.report.RapportPrevison.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.report.RapprtMessagerie.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.recus_paiement.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.recus_paiement1.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.report.Recus_paiement_Final.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.report.StatExamen1.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.report.StatExemen2.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.report.StatistiqueInscription.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.report.StatPeriode1.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.report.StatPeriode2.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.report.StatPeriode3.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.report.StatPeriode4.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.report.StatTG.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.report.StatTotal1.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.report.StatTotal2.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.report.TesteListeEns.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.XtraReport1.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.report.XtraReport2.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.usercontroles.userBuckup.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.usercontroles.userrestauration.resources
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.csproj.GenerateResource.Cache
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.exe.licenses
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.report.RapportAffectationListe.resources
+E:\les projects AJOUR\ProjetFinalEcole\Ecole\Ecole\bin\Debug\Ecole.exe.config
+E:\les projects AJOUR\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.exe
+E:\les projects AJOUR\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.pdb
+E:\Les proets C#\ProjetFinalEcole\Ecole\Ecole\obj\Debug\Ecole.Formulaire.FormCoursSearch.resources

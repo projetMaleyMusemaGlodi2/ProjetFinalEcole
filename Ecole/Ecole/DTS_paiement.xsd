@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DTS_paiement" targetNamespace="http://tempuri.org/DTS_paiement.xsd" xmlns:mstns="http://tempuri.org/DTS_paiement.xsd" xmlns="http://tempuri.org/DTS_paiement.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="Gestion_Ecole1ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="Gestion_Ecole1ConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Ecole.Properties.Settings.GlobalReference.Default.Gestion_Ecole1ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="liste_paiementTableAdapter" GeneratorDataComponentClassName="liste_paiementTableAdapter" Name="liste_paiement" UserDataComponentName="liste_paiementTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Gestion_Ecole1ConnectionString (Settings)" DbObjectName="Gestion_Ecole1.dbo.liste_paiement" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Num_Recus, montantpay, datepay, codeincription, codeeleve, nom, postnom, prenom, codeclasse, codesection, division, section, codeoption, optioneleve, codefrais, frais, codeutil, utilisateur, libelle FROM dbo.liste_paiement</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Num_Recus" DataSetColumn="Num_Recus" />
+              <Mapping SourceColumn="montantpay" DataSetColumn="montantpay" />
+              <Mapping SourceColumn="datepay" DataSetColumn="datepay" />
+              <Mapping SourceColumn="codeincription" DataSetColumn="codeincription" />
+              <Mapping SourceColumn="codeeleve" DataSetColumn="codeeleve" />
+              <Mapping SourceColumn="nom" DataSetColumn="nom" />
+              <Mapping SourceColumn="postnom" DataSetColumn="postnom" />
+              <Mapping SourceColumn="prenom" DataSetColumn="prenom" />
+              <Mapping SourceColumn="codeclasse" DataSetColumn="codeclasse" />
+              <Mapping SourceColumn="codesection" DataSetColumn="codesection" />
+              <Mapping SourceColumn="division" DataSetColumn="division" />
+              <Mapping SourceColumn="section" DataSetColumn="section" />
+              <Mapping SourceColumn="codeoption" DataSetColumn="codeoption" />
+              <Mapping SourceColumn="optioneleve" DataSetColumn="optioneleve" />
+              <Mapping SourceColumn="codefrais" DataSetColumn="codefrais" />
+              <Mapping SourceColumn="frais" DataSetColumn="frais" />
+              <Mapping SourceColumn="codeutil" DataSetColumn="codeutil" />
+              <Mapping SourceColumn="utilisateur" DataSetColumn="utilisateur" />
+              <Mapping SourceColumn="libelle" DataSetColumn="libelle" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DTS_paiement" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DTS_paiement" msprop:Generator_UserDSName="DTS_paiement">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="liste_paiement" msprop:Generator_TableClassName="liste_paiementDataTable" msprop:Generator_TableVarName="tableliste_paiement" msprop:Generator_TablePropName="liste_paiement" msprop:Generator_RowDeletingName="liste_paiementRowDeleting" msprop:Generator_RowChangingName="liste_paiementRowChanging" msprop:Generator_RowEvHandlerName="liste_paiementRowChangeEventHandler" msprop:Generator_RowDeletedName="liste_paiementRowDeleted" msprop:Generator_UserTableName="liste_paiement" msprop:Generator_RowChangedName="liste_paiementRowChanged" msprop:Generator_RowEvArgName="liste_paiementRowChangeEvent" msprop:Generator_RowClassName="liste_paiementRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Num_Recus" msprop:Generator_ColumnVarNameInTable="columnNum_Recus" msprop:Generator_ColumnPropNameInRow="Num_Recus" msprop:Generator_ColumnPropNameInTable="Num_RecusColumn" msprop:Generator_UserColumnName="Num_Recus" type="xs:int" />
+              <xs:element name="montantpay" msprop:Generator_ColumnVarNameInTable="columnmontantpay" msprop:Generator_ColumnPropNameInRow="montantpay" msprop:Generator_ColumnPropNameInTable="montantpayColumn" msprop:Generator_UserColumnName="montantpay" type="xs:double" minOccurs="0" />
+              <xs:element name="datepay" msprop:Generator_ColumnVarNameInTable="columndatepay" msprop:Generator_ColumnPropNameInRow="datepay" msprop:Generator_ColumnPropNameInTable="datepayColumn" msprop:Generator_UserColumnName="datepay" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="codeincription" msprop:Generator_ColumnVarNameInTable="columncodeincription" msprop:Generator_ColumnPropNameInRow="codeincription" msprop:Generator_ColumnPropNameInTable="codeincriptionColumn" msprop:Generator_UserColumnName="codeincription" type="xs:int" minOccurs="0" />
+              <xs:element name="codeeleve" msprop:Generator_ColumnVarNameInTable="columncodeeleve" msprop:Generator_ColumnPropNameInRow="codeeleve" msprop:Generator_ColumnPropNameInTable="codeeleveColumn" msprop:Generator_UserColumnName="codeeleve" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="nom" msprop:Generator_ColumnVarNameInTable="columnnom" msprop:Generator_ColumnPropNameInRow="nom" msprop:Generator_ColumnPropNameInTable="nomColumn" msprop:Generator_UserColumnName="nom" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="postnom" msprop:Generator_ColumnVarNameInTable="columnpostnom" msprop:Generator_ColumnPropNameInRow="postnom" msprop:Generator_ColumnPropNameInTable="postnomColumn" msprop:Generator_UserColumnName="postnom" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="prenom" msprop:Generator_ColumnVarNameInTable="columnprenom" msprop:Generator_ColumnPropNameInRow="prenom" msprop:Generator_ColumnPropNameInTable="prenomColumn" msprop:Generator_UserColumnName="prenom" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="codeclasse" msprop:Generator_ColumnVarNameInTable="columncodeclasse" msprop:Generator_ColumnPropNameInRow="codeclasse" msprop:Generator_ColumnPropNameInTable="codeclasseColumn" msprop:Generator_UserColumnName="codeclasse" type="xs:int" minOccurs="0" />
+              <xs:element name="codesection" msprop:Generator_ColumnVarNameInTable="columncodesection" msprop:Generator_ColumnPropNameInRow="codesection" msprop:Generator_ColumnPropNameInTable="codesectionColumn" msprop:Generator_UserColumnName="codesection" type="xs:int" minOccurs="0" />
+              <xs:element name="division" msprop:Generator_ColumnVarNameInTable="columndivision" msprop:Generator_ColumnPropNameInRow="division" msprop:Generator_ColumnPropNameInTable="divisionColumn" msprop:Generator_UserColumnName="division" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="section" msprop:Generator_ColumnVarNameInTable="columnsection" msprop:Generator_ColumnPropNameInRow="section" msprop:Generator_ColumnPropNameInTable="sectionColumn" msprop:Generator_UserColumnName="section" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="codeoption" msprop:Generator_ColumnVarNameInTable="columncodeoption" msprop:Generator_ColumnPropNameInRow="codeoption" msprop:Generator_ColumnPropNameInTable="codeoptionColumn" msprop:Generator_UserColumnName="codeoption" type="xs:int" minOccurs="0" />
+              <xs:element name="optioneleve" msprop:Generator_ColumnVarNameInTable="columnoptioneleve" msprop:Generator_ColumnPropNameInRow="optioneleve" msprop:Generator_ColumnPropNameInTable="optioneleveColumn" msprop:Generator_UserColumnName="optioneleve" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="codefrais" msprop:Generator_ColumnVarNameInTable="columncodefrais" msprop:Generator_ColumnPropNameInRow="codefrais" msprop:Generator_ColumnPropNameInTable="codefraisColumn" msprop:Generator_UserColumnName="codefrais" type="xs:int" minOccurs="0" />
+              <xs:element name="frais" msprop:Generator_ColumnVarNameInTable="columnfrais" msprop:Generator_ColumnPropNameInRow="frais" msprop:Generator_ColumnPropNameInTable="fraisColumn" msprop:Generator_UserColumnName="frais" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="codeutil" msprop:Generator_ColumnVarNameInTable="columncodeutil" msprop:Generator_ColumnPropNameInRow="codeutil" msprop:Generator_ColumnPropNameInTable="codeutilColumn" msprop:Generator_UserColumnName="codeutil" type="xs:int" minOccurs="0" />
+              <xs:element name="utilisateur" msprop:Generator_ColumnVarNameInTable="columnutilisateur" msprop:Generator_ColumnPropNameInRow="utilisateur" msprop:Generator_ColumnPropNameInTable="utilisateurColumn" msprop:Generator_UserColumnName="utilisateur" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="libelle" msprop:Generator_ColumnVarNameInTable="columnlibelle" msprop:Generator_ColumnPropNameInRow="libelle" msprop:Generator_ColumnPropNameInTable="libelleColumn" msprop:Generator_UserColumnName="libelle" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:liste_paiement" />
+      <xs:field xpath="mstns:Num_Recus" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

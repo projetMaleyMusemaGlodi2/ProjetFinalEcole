@@ -1,0 +1,8 @@
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole.0.1\bin\Debug\Ecole._0._1.exe.config
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole.0.1\bin\Debug\Ecole._0._1.exe
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole.0.1\bin\Debug\Ecole._0._1.pdb
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole.0.1\obj\Debug\Ecole.0.1.csprojResolveAssemblyReference.cache
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole.0.1\obj\Debug\Ecole._0._1.Properties.Resources.resources
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole.0.1\obj\Debug\Ecole.0.1.csproj.GenerateResource.Cache
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole.0.1\obj\Debug\Ecole._0._1.exe
+C:\Users\MUTAMBALA'S_COMPUTER\Documents\Projet_Ecole\Ecole\Ecole.0.1\obj\Debug\Ecole._0._1.pdb

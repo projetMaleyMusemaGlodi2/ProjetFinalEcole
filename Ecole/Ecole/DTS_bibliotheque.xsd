@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DTS_bibliotheque" targetNamespace="http://tempuri.org/DTS_bibliotheque.xsd" xmlns:mstns="http://tempuri.org/DTS_bibliotheque.xsd" xmlns="http://tempuri.org/DTS_bibliotheque.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="Gestion_Ecole1ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="Gestion_Ecole1ConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Ecole.Properties.Settings.GlobalReference.Default.Gestion_Ecole1ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="emprunt_bibliothequeTableAdapter" GeneratorDataComponentClassName="emprunt_bibliothequeTableAdapter" Name="emprunt_bibliotheque" UserDataComponentName="emprunt_bibliothequeTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Gestion_Ecole1ConnectionString (Settings)" DbObjectName="Gestion_Ecole1.dbo.emprunt_bibliotheque" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT num, ref_inscription, Matricule, nom, postnom, prenom, classe, section, optioneleve, Affectation, ref_livre, titre_livre, date_retrait, date_retour, signature_eleve FROM dbo.emprunt_bibliotheque</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="num" DataSetColumn="num" />
+              <Mapping SourceColumn="ref_inscription" DataSetColumn="ref_inscription" />
+              <Mapping SourceColumn="Matricule" DataSetColumn="Matricule" />
+              <Mapping SourceColumn="nom" DataSetColumn="nom" />
+              <Mapping SourceColumn="postnom" DataSetColumn="postnom" />
+              <Mapping SourceColumn="prenom" DataSetColumn="prenom" />
+              <Mapping SourceColumn="classe" DataSetColumn="classe" />
+              <Mapping SourceColumn="section" DataSetColumn="section" />
+              <Mapping SourceColumn="optioneleve" DataSetColumn="optioneleve" />
+              <Mapping SourceColumn="Affectation" DataSetColumn="Affectation" />
+              <Mapping SourceColumn="ref_livre" DataSetColumn="ref_livre" />
+              <Mapping SourceColumn="titre_livre" DataSetColumn="titre_livre" />
+              <Mapping SourceColumn="date_retrait" DataSetColumn="date_retrait" />
+              <Mapping SourceColumn="date_retour" DataSetColumn="date_retour" />
+              <Mapping SourceColumn="signature_eleve" DataSetColumn="signature_eleve" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DTS_bibliotheque" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DTS_bibliotheque" msprop:Generator_UserDSName="DTS_bibliotheque">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="emprunt_bibliotheque" msprop:Generator_TableClassName="emprunt_bibliothequeDataTable" msprop:Generator_TableVarName="tableemprunt_bibliotheque" msprop:Generator_TablePropName="emprunt_bibliotheque" msprop:Generator_RowDeletingName="emprunt_bibliothequeRowDeleting" msprop:Generator_RowChangingName="emprunt_bibliothequeRowChanging" msprop:Generator_RowEvHandlerName="emprunt_bibliothequeRowChangeEventHandler" msprop:Generator_RowDeletedName="emprunt_bibliothequeRowDeleted" msprop:Generator_UserTableName="emprunt_bibliotheque" msprop:Generator_RowChangedName="emprunt_bibliothequeRowChanged" msprop:Generator_RowEvArgName="emprunt_bibliothequeRowChangeEvent" msprop:Generator_RowClassName="emprunt_bibliothequeRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="num" msprop:Generator_ColumnVarNameInTable="columnnum" msprop:Generator_ColumnPropNameInRow="num" msprop:Generator_ColumnPropNameInTable="numColumn" msprop:Generator_UserColumnName="num" type="xs:int" />
+              <xs:element name="ref_inscription" msprop:Generator_ColumnVarNameInTable="columnref_inscription" msprop:Generator_ColumnPropNameInRow="ref_inscription" msprop:Generator_ColumnPropNameInTable="ref_inscriptionColumn" msprop:Generator_UserColumnName="ref_inscription" type="xs:int" minOccurs="0" />
+              <xs:element name="Matricule" msprop:Generator_ColumnVarNameInTable="columnMatricule" msprop:Generator_ColumnPropNameInRow="Matricule" msprop:Generator_ColumnPropNameInTable="MatriculeColumn" msprop:Generator_UserColumnName="Matricule" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="nom" msprop:Generator_ColumnVarNameInTable="columnnom" msprop:Generator_ColumnPropNameInRow="nom" msprop:Generator_ColumnPropNameInTable="nomColumn" msprop:Generator_UserColumnName="nom" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="postnom" msprop:Generator_ColumnVarNameInTable="columnpostnom" msprop:Generator_ColumnPropNameInRow="postnom" msprop:Generator_ColumnPropNameInTable="postnomColumn" msprop:Generator_UserColumnName="postnom" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="prenom" msprop:Generator_ColumnVarNameInTable="columnprenom" msprop:Generator_ColumnPropNameInRow="prenom" msprop:Generator_ColumnPropNameInTable="prenomColumn" msprop:Generator_UserColumnName="prenom" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="classe" msprop:Generator_ColumnVarNameInTable="columnclasse" msprop:Generator_ColumnPropNameInRow="classe" msprop:Generator_ColumnPropNameInTable="classeColumn" msprop:Generator_UserColumnName="classe" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="section" msprop:Generator_ColumnVarNameInTable="columnsection" msprop:Generator_ColumnPropNameInRow="section" msprop:Generator_ColumnPropNameInTable="sectionColumn" msprop:Generator_UserColumnName="section" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="optioneleve" msprop:Generator_ColumnVarNameInTable="columnoptioneleve" msprop:Generator_ColumnPropNameInRow="optioneleve" msprop:Generator_ColumnPropNameInTable="optioneleveColumn" msprop:Generator_UserColumnName="optioneleve" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Affectation" msprop:Generator_ColumnVarNameInTable="columnAffectation" msprop:Generator_ColumnPropNameInRow="Affectation" msprop:Generator_ColumnPropNameInTable="AffectationColumn" msprop:Generator_UserColumnName="Affectation" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ref_livre" msprop:Generator_ColumnVarNameInTable="columnref_livre" msprop:Generator_ColumnPropNameInRow="ref_livre" msprop:Generator_ColumnPropNameInTable="ref_livreColumn" msprop:Generator_UserColumnName="ref_livre" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="titre_livre" msprop:Generator_ColumnVarNameInTable="columntitre_livre" msprop:Generator_ColumnPropNameInRow="titre_livre" msprop:Generator_ColumnPropNameInTable="titre_livreColumn" msprop:Generator_UserColumnName="titre_livre" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="date_retrait" msprop:Generator_ColumnVarNameInTable="columndate_retrait" msprop:Generator_ColumnPropNameInRow="date_retrait" msprop:Generator_ColumnPropNameInTable="date_retraitColumn" msprop:Generator_UserColumnName="date_retrait" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="date_retour" msprop:Generator_ColumnVarNameInTable="columndate_retour" msprop:Generator_ColumnPropNameInRow="date_retour" msprop:Generator_ColumnPropNameInTable="date_retourColumn" msprop:Generator_UserColumnName="date_retour" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="signature_eleve" msprop:Generator_ColumnVarNameInTable="columnsignature_eleve" msprop:Generator_ColumnPropNameInRow="signature_eleve" msprop:Generator_ColumnPropNameInTable="signature_eleveColumn" msprop:Generator_UserColumnName="signature_eleve" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:emprunt_bibliotheque" />
+      <xs:field xpath="mstns:num" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

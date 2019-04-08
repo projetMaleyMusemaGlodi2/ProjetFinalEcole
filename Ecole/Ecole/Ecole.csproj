@@ -1,0 +1,1199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C586174F-02F4-4B86-8680-0538FAAC7142}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Ecole</RootNamespace>
+    <AssemblyName>Ecole</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Logo44.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Ecole.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Charts.v15.2.Core, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DataAccess.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Office.v15.2.Core, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v15.2.Core, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v15.2.Core, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v15.2.Core, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v15.2.Core, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v15.2.UI, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpo.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v15.2.UI, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v15.2.Wizard, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v15.2.Core, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraNavBar.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v15.2.Extensions, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="GSMCommShared">
+      <HintPath>..\..\SMS\SMS\bin\Debug\GSMCommShared.dll</HintPath>
+    </Reference>
+    <Reference Include="GSMCommunication">
+      <HintPath>..\..\SMS\SMS\bin\Debug\GSMCommunication.dll</HintPath>
+    </Reference>
+    <Reference Include="PDUConverter">
+      <HintPath>..\..\SMS\SMS\bin\Debug\PDUConverter.dll</HintPath>
+    </Reference>
+    <Reference Include="RS232">
+      <HintPath>..\..\SMS\SMS\bin\Debug\RS232.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classe\bibliotheque.cs" />
+    <Compile Include="Classe\ClassConstantes.cs" />
+    <Compile Include="Classe\ClassMessageDialog.cs" />
+    <Compile Include="Classe\ClassNotification.cs" />
+    <Compile Include="Classe\ClassShowNotification.cs" />
+    <Compile Include="Classe\ClEncours.cs" />
+    <Compile Include="Classe\ClIntelligence.cs" />
+    <Compile Include="Classe\ClsAdresse.cs" />
+    <Compile Include="Classe\clsDatebaseBackupRestor.cs" />
+    <Compile Include="Classe\clsDebiteur.cs" />
+    <Compile Include="Classe\ClsDicipline.cs" />
+    <Compile Include="Classe\ClsEcole.cs" />
+    <Compile Include="Classe\clsIntermediaire.cs" />
+    <Compile Include="Classe\ClsMenssion.cs" />
+    <Compile Include="Classe\clsMessagerie.cs" />
+    <Compile Include="Classe\ClsMessagerieInsert.cs" />
+    <Compile Include="Classe\ClsParametre.cs" />
+    <Compile Include="Classe\ClsPresence.cs" />
+    <Compile Include="Classe\pubCon.cs" />
+    <Compile Include="DTs\DTS_livre.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DTS_livre.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DTs\MyDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MyDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DTS_palmarece.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DTS_palmarece.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaire\FormCoursSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaire\FormCoursSearch.Designer.cs">
+      <DependentUpon>FormCoursSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaire\FormEcole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaire\FormEcole.Designer.cs">
+      <DependentUpon>FormEcole.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaire\FormConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaire\FormConfig.Designer.cs">
+      <DependentUpon>FormConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaire\FormDiscipline.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaire\FormDiscipline.Designer.cs">
+      <DependentUpon>FormDiscipline.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaire\FormHoraire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaire\FormHoraire.Designer.cs">
+      <DependentUpon>FormHoraire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaire\FormMenssion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaire\FormMenssion.Designer.cs">
+      <DependentUpon>FormMenssion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaire\FormPalmaress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaire\FormPalmaress.Designer.cs">
+      <DependentUpon>FormPalmaress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaire\FormParametreEncours.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaire\FormParametreEncours.Designer.cs">
+      <DependentUpon>FormParametreEncours.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaire\FormPresence.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaire\FormPresence.Designer.cs">
+      <DependentUpon>FormPresence.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaire\FormRaport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaire\FormRaport.Designer.cs">
+      <DependentUpon>FormRaport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaire\FormRapportComptabilite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaire\FormRapportComptabilite.Designer.cs">
+      <DependentUpon>FormRapportComptabilite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaire\FormRecouvrement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaire\FormRecouvrement.Designer.cs">
+      <DependentUpon>FormRecouvrement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaire\FormSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaire\FormSplash.Designer.cs">
+      <DependentUpon>FormSplash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaire\FormStatReussiteEchec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaire\FormStatReussiteEchec.Designer.cs">
+      <DependentUpon>FormStatReussiteEchec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaire\UserParametreEncours.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formulaire\UserParametreEncours.Designer.cs">
+      <DependentUpon>UserParametreEncours.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaire\XtraMessageBox.cs" />
+    <Compile Include="report\Billetin1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\Billetin1.Designer.cs">
+      <DependentUpon>Billetin1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\Billetin_final.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\Billetin_final.Designer.cs">
+      <DependentUpon>Billetin_final.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\Billetin_test.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\Billetin_test.Designer.cs">
+      <DependentUpon>Billetin_test.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\billet_inscription.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\billet_inscription.Designer.cs">
+      <DependentUpon>billet_inscription.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\billet_inscription1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\billet_inscription1.Designer.cs">
+      <DependentUpon>billet_inscription1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\Borderau_sortie.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\Borderau_sortie.Designer.cs">
+      <DependentUpon>Borderau_sortie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\BulletinPage.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\BulletinPage.Designer.cs">
+      <DependentUpon>BulletinPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\Carte_bibliotheque.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\Carte_bibliotheque.Designer.cs">
+      <DependentUpon>Carte_bibliotheque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\Carte_eleve.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\Carte_eleve.Designer.cs">
+      <DependentUpon>Carte_eleve.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\carte_service.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\carte_service.Designer.cs">
+      <DependentUpon>carte_service.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classe\clreport.cs" />
+    <Compile Include="Classe\connexion.cs" />
+    <Compile Include="Classe\cours.cs" />
+    <Compile Include="DS_liste.cs">
+      <DependentUpon>DS_liste.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DS_liste.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_liste.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DTS_bibliotheque.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DTS_bibliotheque.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DTS_bulletin.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DTS_bulletin.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DTS_cotation.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DTS_cotation.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DTS_COURS_VRAI.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DTS_COURS_VRAI.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DTS_liste_cours.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DTS_liste_cours.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DTS_liste_proclamation.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DTS_liste_proclamation.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DTS_paiement.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DTS_paiement.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DTS_proclamation.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DTS_proclamation.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DT_inscription.cs">
+      <DependentUpon>DT_inscription.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DT_inscription.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DT_inscription.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaire\Ecole1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaire\Ecole1.Designer.cs">
+      <DependentUpon>Ecole1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classe\eleve.cs" />
+    <Compile Include="Classe\Enseignant.cs" />
+    <Compile Include="Formulaire\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaire\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classe\horaire.cs" />
+    <Compile Include="report\DataSetChat.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetChat.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="report\DTSStatPeriode1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DTSStatPeriode1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="report\DTSStatPeriode2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DTSStatPeriode2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="report\DTSStatPeriode3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DTSStatPeriode3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="report\DTSStatPeriode4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DTSStatPeriode4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="report\DTSStatPeriodeExamen1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DTSStatPeriodeExamen1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="report\DTSStatPeriodeExamen2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DTSStatPeriodeExamen2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="report\DTSStatPeriodeTG.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DTSStatPeriodeTG.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="report\DTSStatPeriodeTotal1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DTSStatPeriodeTotal1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="report\DTSStatPeriodeTotal2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DTSStatPeriodeTotal2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="report\DTS_paiement11111.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DTS_paiement11111.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="report\DTS_pourcentage111.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DTS_pourcentage111.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="report\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\HoaraireCours.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\HoaraireCours.Designer.cs">
+      <DependentUpon>HoaraireCours.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\La_liste_des_cours.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\La_liste_des_cours.Designer.cs">
+      <DependentUpon>La_liste_des_cours.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\ListeOption.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\ListeOption.Designer.cs">
+      <DependentUpon>ListeOption.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\ListePresence.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\ListePresence.Designer.cs">
+      <DependentUpon>ListePresence.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\ListeRecouvrement.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\ListeRecouvrement.Designer.cs">
+      <DependentUpon>ListeRecouvrement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\Liste_Eleve_dossiers.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\Liste_Eleve_dossiers.Designer.cs">
+      <DependentUpon>Liste_Eleve_dossiers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\liste_elves.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\liste_elves.Designer.cs">
+      <DependentUpon>liste_elves.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\Liste_Inscription_general.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\Liste_Inscription_general.Designer.cs">
+      <DependentUpon>Liste_Inscription_general.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\liste_total_paiement.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\liste_total_paiement.Designer.cs">
+      <DependentUpon>liste_total_paiement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaire\Login1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaire\Login1.Designer.cs">
+      <DependentUpon>Login1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classe\parametre.cs" />
+    <Compile Include="report\livre.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\livre.Designer.cs">
+      <DependentUpon>livre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\Palmaresse.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\Palmaresse.Designer.cs">
+      <DependentUpon>Palmaresse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\print_horaire.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\print_horaire.Designer.cs">
+      <DependentUpon>print_horaire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Formulaire\ProgressBar_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaire\ProgressBar_1.Designer.cs">
+      <DependentUpon>ProgressBar_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classe\ProgressReport.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="report\RapportAffectation.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\RapportAffectation.Designer.cs">
+      <DependentUpon>RapportAffectation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\RapportAffectationListe.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\RapportAffectationListe.Designer.cs">
+      <DependentUpon>RapportAffectationListe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\RapportEmpruntBib.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\RapportEmpruntBib.Designer.cs">
+      <DependentUpon>RapportEmpruntBib.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\RapportInscription.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\RapportInscription.Designer.cs">
+      <DependentUpon>RapportInscription.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\RapportListeLivre.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\RapportListeLivre.Designer.cs">
+      <DependentUpon>RapportListeLivre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\RapportListePresence.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\RapportListePresence.Designer.cs">
+      <DependentUpon>RapportListePresence.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\RapportPaiementFrais.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\RapportPaiementFrais.Designer.cs">
+      <DependentUpon>RapportPaiementFrais.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\RapportPresence.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\RapportPresence.Designer.cs">
+      <DependentUpon>RapportPresence.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\RapportPrevison.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\RapportPrevison.Designer.cs">
+      <DependentUpon>RapportPrevison.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\RapprtMessagerie.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\RapprtMessagerie.Designer.cs">
+      <DependentUpon>RapprtMessagerie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\recus_paiement.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\recus_paiement.Designer.cs">
+      <DependentUpon>recus_paiement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\recus_paiement1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\recus_paiement1.Designer.cs">
+      <DependentUpon>recus_paiement1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classe\UserSession.cs" />
+    <Compile Include="report\Recus_paiement_Final.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\Recus_paiement_Final.Designer.cs">
+      <DependentUpon>Recus_paiement_Final.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\StatExamen1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\StatExamen1.Designer.cs">
+      <DependentUpon>StatExamen1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\StatExemen2.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\StatExemen2.Designer.cs">
+      <DependentUpon>StatExemen2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\StatistiqueInscription.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\StatistiqueInscription.Designer.cs">
+      <DependentUpon>StatistiqueInscription.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\StatPeriode1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\StatPeriode1.Designer.cs">
+      <DependentUpon>StatPeriode1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\StatPeriode2.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\StatPeriode2.Designer.cs">
+      <DependentUpon>StatPeriode2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\StatPeriode3.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\StatPeriode3.Designer.cs">
+      <DependentUpon>StatPeriode3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\StatPeriode4.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\StatPeriode4.Designer.cs">
+      <DependentUpon>StatPeriode4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\StatTG.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\StatTG.Designer.cs">
+      <DependentUpon>StatTG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\StatTotal1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\StatTotal1.Designer.cs">
+      <DependentUpon>StatTotal1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\StatTotal2.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\StatTotal2.Designer.cs">
+      <DependentUpon>StatTotal2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\TesteListeEns.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\TesteListeEns.Designer.cs">
+      <DependentUpon>TesteListeEns.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\XtraReport1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\XtraReport1.Designer.cs">
+      <DependentUpon>XtraReport1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\XtraReport2.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="report\XtraReport2.Designer.cs">
+      <DependentUpon>XtraReport2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="usercontroles\userBuckup.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="usercontroles\userBuckup.Designer.cs">
+      <DependentUpon>userBuckup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="usercontroles\userrestauration.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="usercontroles\userrestauration.Designer.cs">
+      <DependentUpon>userrestauration.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Formulaire\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulaire\FormConfig.resx">
+      <DependentUpon>FormConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulaire\FormCoursSearch.resx">
+      <DependentUpon>FormCoursSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulaire\FormDiscipline.resx">
+      <DependentUpon>FormDiscipline.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulaire\FormEcole.resx">
+      <DependentUpon>FormEcole.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulaire\FormHoraire.resx">
+      <DependentUpon>FormHoraire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulaire\FormMenssion.resx">
+      <DependentUpon>FormMenssion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulaire\FormPalmaress.resx">
+      <DependentUpon>FormPalmaress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulaire\FormParametreEncours.resx">
+      <DependentUpon>FormParametreEncours.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulaire\FormPresence.resx">
+      <DependentUpon>FormPresence.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulaire\FormRaport.resx">
+      <DependentUpon>FormRaport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulaire\FormRapportComptabilite.resx">
+      <DependentUpon>FormRapportComptabilite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulaire\FormRecouvrement.resx">
+      <DependentUpon>FormRecouvrement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulaire\FormSplash.resx">
+      <DependentUpon>FormSplash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulaire\FormStatReussiteEchec.resx">
+      <DependentUpon>FormStatReussiteEchec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulaire\UserParametreEncours.resx">
+      <DependentUpon>UserParametreEncours.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\Billetin1.resx">
+      <DependentUpon>Billetin1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\Billetin_final.resx">
+      <DependentUpon>Billetin_final.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\Billetin_test.resx">
+      <DependentUpon>Billetin_test.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\billet_inscription.resx">
+      <DependentUpon>billet_inscription.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\billet_inscription1.resx">
+      <DependentUpon>billet_inscription1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\Borderau_sortie.resx">
+      <DependentUpon>Borderau_sortie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\BulletinPage.resx">
+      <DependentUpon>BulletinPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\Carte_bibliotheque.resx">
+      <DependentUpon>Carte_bibliotheque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\Carte_eleve.resx">
+      <DependentUpon>Carte_eleve.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\carte_service.resx">
+      <DependentUpon>carte_service.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulaire\Ecole1.resx">
+      <DependentUpon>Ecole1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\HoaraireCours.resx">
+      <DependentUpon>HoaraireCours.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\La_liste_des_cours.resx">
+      <DependentUpon>La_liste_des_cours.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\ListeOption.resx">
+      <DependentUpon>ListeOption.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\ListePresence.resx">
+      <DependentUpon>ListePresence.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\ListeRecouvrement.resx">
+      <DependentUpon>ListeRecouvrement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\Liste_Eleve_dossiers.resx">
+      <DependentUpon>Liste_Eleve_dossiers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\liste_elves.resx">
+      <DependentUpon>liste_elves.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\Liste_Inscription_general.resx">
+      <DependentUpon>Liste_Inscription_general.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\liste_total_paiement.resx">
+      <DependentUpon>liste_total_paiement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulaire\Login1.resx">
+      <DependentUpon>Login1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\livre.resx">
+      <DependentUpon>livre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\Palmaresse.resx">
+      <DependentUpon>Palmaresse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\print_horaire.resx">
+      <DependentUpon>print_horaire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulaire\ProgressBar_1.resx">
+      <DependentUpon>ProgressBar_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="report\RapportAffectation.resx">
+      <DependentUpon>RapportAffectation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\RapportAffectationListe.resx">
+      <DependentUpon>RapportAffectationListe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\RapportEmpruntBib.resx">
+      <DependentUpon>RapportEmpruntBib.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\RapportInscription.resx">
+      <DependentUpon>RapportInscription.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\RapportListeLivre.resx">
+      <DependentUpon>RapportListeLivre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\RapportListePresence.resx">
+      <DependentUpon>RapportListePresence.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\RapportPaiementFrais.resx">
+      <DependentUpon>RapportPaiementFrais.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\RapportPresence.resx">
+      <DependentUpon>RapportPresence.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\RapportPrevison.resx">
+      <DependentUpon>RapportPrevison.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\RapprtMessagerie.resx">
+      <DependentUpon>RapprtMessagerie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\recus_paiement.resx">
+      <DependentUpon>recus_paiement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\recus_paiement1.resx">
+      <DependentUpon>recus_paiement1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\Recus_paiement_Final.resx">
+      <DependentUpon>Recus_paiement_Final.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\StatExamen1.resx">
+      <DependentUpon>StatExamen1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\StatExemen2.resx">
+      <DependentUpon>StatExemen2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\StatistiqueInscription.resx">
+      <DependentUpon>StatistiqueInscription.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\StatPeriode1.resx">
+      <DependentUpon>StatPeriode1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\StatPeriode2.resx">
+      <DependentUpon>StatPeriode2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\StatPeriode3.resx">
+      <DependentUpon>StatPeriode3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\StatPeriode4.resx">
+      <DependentUpon>StatPeriode4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\StatTG.resx">
+      <DependentUpon>StatTG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\StatTotal1.resx">
+      <DependentUpon>StatTotal1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\StatTotal2.resx">
+      <DependentUpon>StatTotal2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\TesteListeEns.resx">
+      <DependentUpon>TesteListeEns.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\XtraReport1.resx">
+      <DependentUpon>XtraReport1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\XtraReport2.resx">
+      <DependentUpon>XtraReport2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="usercontroles\userBuckup.resx">
+      <DependentUpon>userBuckup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="usercontroles\userrestauration.resx">
+      <DependentUpon>userrestauration.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DS_liste.xsc">
+      <DependentUpon>DS_liste.xsd</DependentUpon>
+    </None>
+    <None Include="DS_liste.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_liste.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DS_liste.xss">
+      <DependentUpon>DS_liste.xsd</DependentUpon>
+    </None>
+    <None Include="DTs\DTS_livre.xsc">
+      <DependentUpon>DTS_livre.xsd</DependentUpon>
+    </None>
+    <None Include="DTs\DTS_livre.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DTS_livre.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DTs\DTS_livre.xss">
+      <DependentUpon>DTS_livre.xsd</DependentUpon>
+    </None>
+    <None Include="DTs\MyDataSet.xsc">
+      <DependentUpon>MyDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DTs\MyDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MyDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DTs\MyDataSet.xss">
+      <DependentUpon>MyDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DTS_bibliotheque.xsc">
+      <DependentUpon>DTS_bibliotheque.xsd</DependentUpon>
+    </None>
+    <None Include="DTS_bibliotheque.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DTS_bibliotheque.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DTS_bibliotheque.xss">
+      <DependentUpon>DTS_bibliotheque.xsd</DependentUpon>
+    </None>
+    <None Include="DTS_bulletin.xsc">
+      <DependentUpon>DTS_bulletin.xsd</DependentUpon>
+    </None>
+    <None Include="DTS_bulletin.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DTS_bulletin.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DTS_bulletin.xss">
+      <DependentUpon>DTS_bulletin.xsd</DependentUpon>
+    </None>
+    <None Include="DTS_cotation.xsc">
+      <DependentUpon>DTS_cotation.xsd</DependentUpon>
+    </None>
+    <None Include="DTS_cotation.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DTS_cotation.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DTS_cotation.xss">
+      <DependentUpon>DTS_cotation.xsd</DependentUpon>
+    </None>
+    <None Include="DTS_COURS_VRAI.xsc">
+      <DependentUpon>DTS_COURS_VRAI.xsd</DependentUpon>
+    </None>
+    <None Include="DTS_COURS_VRAI.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DTS_COURS_VRAI.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DTS_COURS_VRAI.xss">
+      <DependentUpon>DTS_COURS_VRAI.xsd</DependentUpon>
+    </None>
+    <None Include="DTS_liste_cours.xsc">
+      <DependentUpon>DTS_liste_cours.xsd</DependentUpon>
+    </None>
+    <None Include="DTS_liste_cours.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DTS_liste_cours.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DTS_liste_cours.xss">
+      <DependentUpon>DTS_liste_cours.xsd</DependentUpon>
+    </None>
+    <None Include="DTS_liste_proclamation.xsc">
+      <DependentUpon>DTS_liste_proclamation.xsd</DependentUpon>
+    </None>
+    <None Include="DTS_liste_proclamation.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DTS_liste_proclamation.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DTS_liste_proclamation.xss">
+      <DependentUpon>DTS_liste_proclamation.xsd</DependentUpon>
+    </None>
+    <None Include="DTS_paiement.xsc">
+      <DependentUpon>DTS_paiement.xsd</DependentUpon>
+    </None>
+    <None Include="DTS_paiement.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DTS_paiement.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DTS_paiement.xss">
+      <DependentUpon>DTS_paiement.xsd</DependentUpon>
+    </None>
+    <None Include="DTS_palmarece.xsc">
+      <DependentUpon>DTS_palmarece.xsd</DependentUpon>
+    </None>
+    <None Include="DTS_palmarece.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DTS_palmarece.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DTS_palmarece.xss">
+      <DependentUpon>DTS_palmarece.xsd</DependentUpon>
+    </None>
+    <None Include="DTS_proclamation.xsc">
+      <DependentUpon>DTS_proclamation.xsd</DependentUpon>
+    </None>
+    <None Include="DTS_proclamation.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DTS_proclamation.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DTS_proclamation.xss">
+      <DependentUpon>DTS_proclamation.xsd</DependentUpon>
+    </None>
+    <None Include="DT_inscription.xsc">
+      <DependentUpon>DT_inscription.xsd</DependentUpon>
+    </None>
+    <None Include="DT_inscription.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DT_inscription.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DT_inscription.xss">
+      <DependentUpon>DT_inscription.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="report\DataSetChat.xsc">
+      <DependentUpon>DataSetChat.xsd</DependentUpon>
+    </None>
+    <None Include="report\DataSetChat.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetChat.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="report\DataSetChat.xss">
+      <DependentUpon>DataSetChat.xsd</DependentUpon>
+    </None>
+    <None Include="report\DTSStatPeriode1.xsc">
+      <DependentUpon>DTSStatPeriode1.xsd</DependentUpon>
+    </None>
+    <None Include="report\DTSStatPeriode1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DTSStatPeriode1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="report\DTSStatPeriode1.xss">
+      <DependentUpon>DTSStatPeriode1.xsd</DependentUpon>
+    </None>
+    <None Include="report\DTSStatPeriode2.xsc">
+      <DependentUpon>DTSStatPeriode2.xsd</DependentUpon>
+    </None>
+    <None Include="report\DTSStatPeriode2.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DTSStatPeriode2.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="report\DTSStatPeriode2.xss">
+      <DependentUpon>DTSStatPeriode2.xsd</DependentUpon>
+    </None>
+    <None Include="report\DTSStatPeriode3.xsc">
+      <DependentUpon>DTSStatPeriode3.xsd</DependentUpon>
+    </None>
+    <None Include="report\DTSStatPeriode3.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DTSStatPeriode3.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="report\DTSStatPeriode3.xss">
+      <DependentUpon>DTSStatPeriode3.xsd</DependentUpon>
+    </None>
+    <None Include="report\DTSStatPeriode4.xsc">
+      <DependentUpon>DTSStatPeriode4.xsd</DependentUpon>
+    </None>
+    <None Include="report\DTSStatPeriode4.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DTSStatPeriode4.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="report\DTSStatPeriode4.xss">
+      <DependentUpon>DTSStatPeriode4.xsd</DependentUpon>
+    </None>
+    <None Include="report\DTSStatPeriodeExamen1.xsc">
+      <DependentUpon>DTSStatPeriodeExamen1.xsd</DependentUpon>
+    </None>
+    <None Include="report\DTSStatPeriodeExamen1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DTSStatPeriodeExamen1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="report\DTSStatPeriodeExamen1.xss">
+      <DependentUpon>DTSStatPeriodeExamen1.xsd</DependentUpon>
+    </None>
+    <None Include="report\DTSStatPeriodeExamen2.xsc">
+      <DependentUpon>DTSStatPeriodeExamen2.xsd</DependentUpon>
+    </None>
+    <None Include="report\DTSStatPeriodeExamen2.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DTSStatPeriodeExamen2.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="report\DTSStatPeriodeExamen2.xss">
+      <DependentUpon>DTSStatPeriodeExamen2.xsd</DependentUpon>
+    </None>
+    <None Include="report\DTSStatPeriodeTG.xsc">
+      <DependentUpon>DTSStatPeriodeTG.xsd</DependentUpon>
+    </None>
+    <None Include="report\DTSStatPeriodeTG.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DTSStatPeriodeTG.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="report\DTSStatPeriodeTG.xss">
+      <DependentUpon>DTSStatPeriodeTG.xsd</DependentUpon>
+    </None>
+    <None Include="report\DTSStatPeriodeTotal1.xsc">
+      <DependentUpon>DTSStatPeriodeTotal1.xsd</DependentUpon>
+    </None>
+    <None Include="report\DTSStatPeriodeTotal1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DTSStatPeriodeTotal1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="report\DTSStatPeriodeTotal1.xss">
+      <DependentUpon>DTSStatPeriodeTotal1.xsd</DependentUpon>
+    </None>
+    <None Include="report\DTSStatPeriodeTotal2.xsc">
+      <DependentUpon>DTSStatPeriodeTotal2.xsd</DependentUpon>
+    </None>
+    <None Include="report\DTSStatPeriodeTotal2.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DTSStatPeriodeTotal2.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="report\DTSStatPeriodeTotal2.xss">
+      <DependentUpon>DTSStatPeriodeTotal2.xsd</DependentUpon>
+    </None>
+    <None Include="report\DTS_paiement11111.xsc">
+      <DependentUpon>DTS_paiement11111.xsd</DependentUpon>
+    </None>
+    <None Include="report\DTS_paiement11111.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DTS_paiement11111.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="report\DTS_paiement11111.xss">
+      <DependentUpon>DTS_paiement11111.xsd</DependentUpon>
+    </None>
+    <None Include="report\DTS_pourcentage111.xsc">
+      <DependentUpon>DTS_pourcentage111.xsd</DependentUpon>
+    </None>
+    <None Include="report\DTS_pourcentage111.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DTS_pourcentage111.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="report\DTS_pourcentage111.xss">
+      <DependentUpon>DTS_pourcentage111.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Logo44.ico" />
+    <Content Include="ZANNER.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
